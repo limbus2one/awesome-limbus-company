@@ -27,11 +27,10 @@
 
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
-| [AhabAssistantLimbusCompany](https://github.com/KIYI671/AhabAssistantLimbusCompany) | 2 天前 | 🟢 | PC 端自动化助手，覆盖日常、采光和镜牢等流程。 |
-| [LixAssistantLimbusCompany](https://github.com/HSLix/LixAssistantLimbusCompany) | 1 个月前 | 🟢 | PC 端一键日常助手，支持采光、镜牢、队伍轮换和自定义任务。 |
-| [WorkerBee v2](https://github.com/Bonkier/workerbeev2) | 3 周前 | 🟢 | 提供镜牢、采光和定时任务的自动化工具。 |
-| [Charge Grinder](https://github.com/Walpth/Charge-Grinder) | 1 天前 | 🟢 | 无需 OCR 的镜牢与采光自动化工具，要求游戏使用英文界面。 |
-| [边狱巴士全自动工具使用说明](https://docs.qq.com/doc/DSHRjbW9qWEJDdHJZ) | — | 🟢 | 全自动工具的下载与使用指南，由腾讯文档提供。 |
+| [AhabAssistantLimbusCompany](https://github.com/KIYI671/AhabAssistantLimbusCompany) | 2 天前 | 🟢 |  |
+| [LixAssistantLimbusCompany](https://github.com/HSLix/LixAssistantLimbusCompany) | 1 个月前 | 🟢 |  |
+| [Charge Grinder](https://github.com/Walpth/Charge-Grinder) | 1 天前 | 🟢 | 支持win，linux |
+| [麋鹿脚本](https://docs.qq.com/doc/DSHRjbW9qWEJDdHJZ) | — | 🟢 | 快 |
 
 ## 本地化项目
 
