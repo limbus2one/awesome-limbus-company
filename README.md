@@ -49,7 +49,7 @@
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
 | [Limbus Story Reader](https://github.com/hakutou29/LimbusStoryReader) | 1 周前 | — | 在网页中浏览中、日、英、韩本地化剧情、人格和语音文本。 |
-| [LC Team Builder](https://lcteambuilder.github.io/) | 1 年前 | — | 创建和分享人格、E.G.O 编队，提供罪孽资源统计、部署顺序与详细数据；[源码](https://github.com/LCTeamBuilder/LCTeamBuilder.github.io)。 |
+
 | [Limbus Company - Organized Assets](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z) | — | 🟢 | 解包素材 |
 | [eldritchtools/limbus](https://github.com/eldritchtools/limbus) | 4 天前 | — | Limbus Company Tools 的开源网站项目。 |
 | [LimbusTeamCodes](https://github.com/R894/LimbusTeamCodes) | 3 个月前 | 🟢 | 编队码生成逻辑 |
@@ -64,6 +64,7 @@
 | [Limbus-Like Lyric Simulator](https://github.com/TempuraYMY0728/Limbus-Like-Lyric-Simulator) | 1 周前 | — | 边狱公司歌词演出 |
 | [Limbus Company Cursors](https://github.com/PlanetaryGear3/Limbus-Cursors) | 6 天前 | — | 《边狱巴士》主题的 Windows 鼠标指针包。 |
 | [PM World](https://github.com/Sliperr34/PM_World) | 3 个月前 | — | 为 Cataclysm: Dark Days Ahead 加入 Project Moon 世界观内容。 |
+| [LC Team Builder](https://lcteambuilder.github.io/) | 1 年前 | — | 编队 |
 
 ## 资源整理
 
@@ -71,7 +72,7 @@
 | --- | --- | --- |
 | [吞拿鱼饼](https://space.bilibili.com/21721678) | 🟢 | 语音等资源整理 |
 
-## 逆向工程与开发资料
+## 逆向和模组
 
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
