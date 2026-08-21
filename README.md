@@ -4,15 +4,13 @@
 
 | 名称 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
-| [边狱公司中文维基](https://limbuscompany.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5) | — | 🟢 | 中文wiki |
 | [Limbus Company Wiki](https://limbuscompany.wiki.gg/) | — | 🟢**goat** | 英文 Wiki |
+| [边狱公司中文维基](https://limbuscompany.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5) | — | 🟢 | 中文wiki |
 | [Namu Wiki：Limbus Company](https://namu.wiki/w/Limbus%20Company) | — | — | 韩语百科条目，整理游戏概况、系统、剧情和运营信息。 |
 | [Prydwen](https://www.prydwen.gg/limbus-company/) | — | — | 人格与 E.G.O 数据库、入门攻略、队伍推荐和 Team Builder。 |
 | [Great Limbus Library](https://gll-fun.com/limbus/en/) | — | — | 人格、E.G.O、状态、镜牢事件与饰品数据库，并提供队伍构建工具。 |
 | [Limbus Company Tools](https://limbus.eldritchtools.com/) | — | — | 数据库、队伍分享、镜牢规划、计算器、活动计时器等综合工具。 |
-| [E.G.O Gifts](https://limbus.eldritchtools.com/gifts) | — | — | 可搜索和筛选镜牢 E.G.O 饰品，并查看效果、合成配方、关联事件与主题包。 |
-| [LC Team Builder](https://lcteambuilder.github.io/) | 1 年前 | — | 创建和分享人格、E.G.O 编队，提供罪孽资源统计、部署顺序与详细数据；[源码](https://github.com/LCTeamBuilder/LCTeamBuilder.github.io)。 |
-| [Dante's Planner](https://dante-planner.com/) | — | — | 人格、E.G.O 与饰品数据库，包含镜牢规划、队伍构建和抽取计算。 |
+| [Dante's Planner](https://dante-planner.com/) | — | 🟢 | 人格、E.G.O 与饰品数据库，包含镜牢规划、队伍构建和抽取计算。 |
 
 ## 自动化脚本
 
@@ -45,6 +43,7 @@
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
 | [Limbus Story Reader](https://github.com/hakutou29/LimbusStoryReader) | 1 周前 | — | 在网页中浏览中、日、英、韩本地化剧情、人格和语音文本。 |
+| [LC Team Builder](https://lcteambuilder.github.io/) | 1 年前 | — | 创建和分享人格、E.G.O 编队，提供罪孽资源统计、部署顺序与详细数据；[源码](https://github.com/LCTeamBuilder/LCTeamBuilder.github.io)。 |
 | [Limbus Company](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z) | — | 🟢 | 解包素材 |
 | [eldritchtools/limbus](https://github.com/eldritchtools/limbus) | 4 天前 | — | Limbus Company Tools 的开源网站项目。 |
 | [LimbusTeamCodes](https://github.com/R894/LimbusTeamCodes) | 3 个月前 | 🟢 | 编队码生成逻辑 |
