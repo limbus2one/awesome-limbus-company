@@ -57,6 +57,10 @@
 - [Steam 商店页面](https://store.steampowered.com/app/1973530/Limbus_Company/)
 - [Project Moon YouTube](https://www.youtube.com/@ProjectMoonOfficial)
 
+## 总监个人主页
+
+- [金智勋（Kim JiHoon）LinkedIn](https://kr.linkedin.com/in/jihoon-kim-7b411821a)
+
 ## 参与维护
 
 欢迎通过 Issue 或 Pull Request 推荐项目。提交时请提供项目名称、链接、主要用途、支持平台/语言，并说明项目是否已停止维护。仅收录能够公开访问、与《Limbus Company》直接相关且用途说明清晰的资源。
