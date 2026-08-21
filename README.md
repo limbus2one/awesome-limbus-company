@@ -36,6 +36,10 @@
 | [LimbusCompany-iOS-Localization](https://github.com/ghcruise/LimbusCompany-IOS-Localization) | iOS / 简体中文 | iOS 客户端中文本地化语言包。 |
 | [LocalizeLimbusCompanyForAndroid](https://github.com/pzwboy/LocalizeLimbusCompanyForAndroid) | Android / 简体中文 | 基于 iOS 汉化文本制作的 Android 本地化项目。 |
 | [LCTA](https://github.com/HZBHZB1234/LCTA-Limbus-company-transfer-auto) | PC / 简体中文 | 集汉化安装、管理、更新和启动于一体的工具集。 |
+| [LimbusLocalizationManager](https://github.com/kimght/LimbusLocalizationManager) | Windows / Linux / 多语言 | 安装、更新、切换和启动多种社区本地化语言包的桌面管理器。 |
+| [LimbusScreenTranslator](https://github.com/kimght/LimbusScreenTranslator) | Android 9+ / 多语言 | 通过可移动悬浮窗显示社区翻译，不修改游戏文件。 |
+| [LLC_MOD_Toolbox](https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox) | Windows / 简体中文 | 零协会汉化的一键安装、更新、字体与模组管理工具。 |
+| [LLC Update Tool](https://github.com/s0me0neee/LLC-update-tool) | Windows / Linux / CLI | 从 GitHub Release 下载并安装本地化资源的命令行工具。 |
 | [Limbus Localization UI](https://github.com/x1bViolet/Limbus-Localization-UI) | Windows / 多语言 | 可预览并编辑游戏本地化 JSON 的桌面工具。 |
 | [Limbus Company Battle Dialog Bubble](https://github.com/Ling-sing/Limbus_Company_Battle_Dialog_Bubble) | 简体中文 | 为部分战斗语音补充中文气泡文本。 |
 | [LimbusDialogueBoxes_EN](https://github.com/NotherWael/LimbusDialogueBoxes_EN) | English | 为部分战斗语音补充英文气泡文本。 |
