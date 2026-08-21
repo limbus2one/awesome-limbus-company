@@ -36,7 +36,7 @@
 
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
-| [LocalizeLimbusCompany](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) | 2 周前 | 🟢 | 社区维护的中文自定义语言包。 |
+| [LocalizeLimbusCompany](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) | 2 周前 | 🟢 | 零协会 |
 | [LimbusCompany-iOS-Localization](https://github.com/ghcruise/LimbusCompany-IOS-Localization) | 1 天前 | 🟢 | iOS 客户端中文本地化语言包。 |
 | [LocalizeLimbusCompanyForAndroid](https://github.com/pzwboy/LocalizeLimbusCompanyForAndroid) | 1 天前 | 🟢 | 基于 iOS 汉化文本制作的 Android 本地化项目。 |
 | [LCTA](https://github.com/HZBHZB1234/LCTA-Limbus-company-transfer-auto) | 1 天前 | 🟢 | 集汉化安装、管理、更新和启动于一体的工具集。 |
