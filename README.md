@@ -10,7 +10,7 @@
 | [Prydwen](https://www.prydwen.gg/limbus-company/) | — | — | 人格与 E.G.O 数据库、入门攻略、队伍推荐和 Team Builder。 |
 | [Great Limbus Library](https://gll-fun.com/limbus/en/) | — | — | 人格、E.G.O、状态、镜牢事件与饰品数据库，并提供队伍构建工具。 |
 | [Limbus Company Tools](https://limbus.eldritchtools.com/) | — | — | 数据库、队伍分享、镜牢规划、计算器、活动计时器等综合工具。 |
-| [Dante's Planner](https://dante-planner.com/) | — | 🟢 | 人格、E.G.O 与饰品数据库，包含镜牢规划、队伍构建和抽取计算。 |
+| [Dante's Planner](https://dante-planner.com/) | — | 🟢 | 界面美观；[源码](https://github.com/phrimm136/dante-planner)。 |
 
 ## 自动化脚本
 
@@ -22,7 +22,7 @@
 | [千星的夏夜](https://space.bilibili.com/3493144127605499) | — | 🟢 | 快。[地址](https://docs.qq.com/doc/DSHRjbW9qWEJDdHJZ) |
 | [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | — | 🟢 | 可修改游戏内数据 |
 
-## 本地化项目
+## 本地化
 
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
@@ -37,6 +37,20 @@
 | [Limbus Localization UI](https://github.com/x1bViolet/Limbus-Localization-UI) | 3 周前 | — | 可预览并编辑游戏本地化 JSON 的桌面工具。 |
 | [Limbus Company Battle Dialog Bubble](https://github.com/Ling-sing/Limbus_Company_Battle_Dialog_Bubble) | 2 个月前 | — | 为部分战斗语音补充中文气泡文本。 |
 | [LimbusDialogueBoxes_EN](https://github.com/NotherWael/LimbusDialogueBoxes_EN) | 2 个月前 | — | 为部分战斗语音补充英文气泡文本。 |
+
+## 工具箱
+
+| 项目 | 最近更新 | Confirm | 简介 |
+| --- | --- | --- | --- |
+| [LLC BABEL](https://github.com/LocalizeLimbusCompany/LLC_BABEL) | 1 个月前 | 🟢 | 零协会的优化网络连接工具 |
+| [limbusZhCN](https://github.com/BBBEANNN/limbusZhCN) | 1 周前 | — | 在 VirtualApp 容器中运行 Google Play 版游戏并提供中文本地化环境。 |
+| [LimbusCompany Nginx Localization](https://github.com/gongfuture/LimbusCompany-Nginx-Localization) | 1 个月前 | — | 使用本机 Nginx、hosts 和证书反向代理移动端本地化资源。 |
+| [Limbus 120 FPS iOS Mod](https://github.com/Vastrilliant/Limbus-Company-120FPS-iOS-Mod) | 2 周前 | — | 在 ProMotion 设备上修改 Unity 显示循环以解锁 120 FPS，需要侧载 IPA。 |
+| [Activision](https://github.com/PhaiKub/Activision) | 2 周前 | — | Charge Grinder 的硬件 HID 版本，由 ESP32-S3 模拟键盘和鼠标输入。 |
+| [LimbusCustomSound](https://github.com/kimght/LimbusCustomSound) | 1 年前 | — | 使用 BepInEx 将游戏语音、BGM 或音效替换为自定义 WAV 文件。 |
+| [Identities Battle Dialogues](https://github.com/WhenThe1/Limbus-Company-Identities-Battle-Dialogues) | 10 个月前 | — | 为原本没有字幕的部分人格战斗语音添加英文气泡文本。 |
+
+
 
 ## 其他相关项目
 
@@ -53,7 +67,6 @@
 
 ## 更多精选社区项目
 
-> 以下项目来自对 GitHub `limbus` 仓库搜索结果的整理。最近更新按照默认分支的最后 commit 计算；使用 Mod、自动化或客户端修改工具前请自行评估风险。
 
 ### 资料、规划与创作
 
@@ -71,17 +84,6 @@
 | [Limbus Terminal Stream](https://github.com/VectorSophie/limbus-terminal-stream) | 5 个月前 | — | 使用 DXGI 捕获游戏，并以真彩色字符在 Windows 终端中显示和转发输入。 |
 | [Lim3ds](https://github.com/aknpxclm/Lim3ds) | 3 天前 | — | 使用 C、libctru 和 devkitARM 在 3DS 上重现基础战斗玩法。 |
 
-### 平台与实用工具
-
-| 项目 | 最近更新 | Confirm | 简介 |
-| --- | --- | --- | --- |
-| [LLC BABEL](https://github.com/LocalizeLimbusCompany/LLC_BABEL) | 1 个月前 | — | 测试并选择游戏 CDN 与 API 节点，经确认后写入带备份的 hosts 规则。 |
-| [limbusZhCN](https://github.com/BBBEANNN/limbusZhCN) | 1 周前 | — | 在 VirtualApp 容器中运行 Google Play 版游戏并提供中文本地化环境。 |
-| [LimbusCompany Nginx Localization](https://github.com/gongfuture/LimbusCompany-Nginx-Localization) | 1 个月前 | — | 使用本机 Nginx、hosts 和证书反向代理移动端本地化资源。 |
-| [Limbus 120 FPS iOS Mod](https://github.com/Vastrilliant/Limbus-Company-120FPS-iOS-Mod) | 2 周前 | — | 在 ProMotion 设备上修改 Unity 显示循环以解锁 120 FPS，需要侧载 IPA。 |
-| [Activision](https://github.com/PhaiKub/Activision) | 2 周前 | — | Charge Grinder 的硬件 HID 版本，由 ESP32-S3 模拟键盘和鼠标输入。 |
-| [LimbusCustomSound](https://github.com/kimght/LimbusCustomSound) | 1 年前 | — | 使用 BepInEx 将游戏语音、BGM 或音效替换为自定义 WAV 文件。 |
-| [Identities Battle Dialogues](https://github.com/WhenThe1/Limbus-Company-Identities-Battle-Dialogues) | 10 个月前 | — | 为原本没有字幕的部分人格战斗语音添加英文气泡文本。 |
 
 ### 同人与实验项目
 

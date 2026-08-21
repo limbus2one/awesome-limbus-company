@@ -14,11 +14,17 @@ from pathlib import Path
 
 
 REPO_RE = re.compile(r"https://github\.com/([^/\s)]+)/([^/\s)#]+)")
+REPO_FROM_WEBSITE = {
+    "https://dante-planner.com/": "phrimm136/dante-planner",
+}
 
 
 def repository_from_row(row: str) -> str | None:
     match = REPO_RE.search(row)
     if not match:
+        for website, repository in REPO_FROM_WEBSITE.items():
+            if website in row:
+                return repository
         return None
     return f"{match.group(1)}/{match.group(2).removesuffix('.git')}"
 
@@ -78,6 +84,7 @@ def update_readme(text: str, activity: dict[str, str]) -> str:
 def self_test() -> None:
     now = datetime(2026, 8, 21, tzinfo=timezone.utc)
     assert repository_from_row("| [x](https://github.com/a/b) | — |") == "a/b"
+    assert repository_from_row("| [Dante's Planner](https://dante-planner.com/) | — | 🟢 | ... |") == "phrimm136/dante-planner"
     assert activity_text("2026-08-21T01:00:00Z", now) == "今天"
     assert activity_text("2026-08-18T01:00:00Z", now) == "3 天前"
     assert activity_text("2026-08-07T01:00:00Z", now) == "2 周前"
