@@ -25,6 +25,7 @@
 | [AhabAssistantLimbusCompany](https://github.com/KIYI671/AhabAssistantLimbusCompany) | Windows / Steam | PC 端自动化助手，覆盖日常、采光和镜牢等流程。 |
 | [LixAssistantLimbusCompany](https://github.com/HSLix/LixAssistantLimbusCompany) | Windows / Steam | PC 端一键日常助手，支持采光、镜牢、队伍轮换和自定义任务。 |
 | [WorkerBee v2](https://github.com/Bonkier/workerbeev2) | Windows / Steam | 提供镜牢、采光和定时任务的自动化工具。 |
+| [Charge Grinder](https://github.com/Walpth/Charge-Grinder) | Windows / Linux / Steam | 无需 OCR 的镜牢与采光自动化工具，要求游戏使用英文界面。 |
 
 ## 本地化项目
 
