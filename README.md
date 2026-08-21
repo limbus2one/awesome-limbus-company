@@ -52,7 +52,7 @@
 | [limbus-shared-library](https://github.com/eldritchtools/limbus-shared-library) | 5 个月前 | — | 面向 Limbus 社区项目的共享数据、图片和组件库。 |
 | [LimbusTeamCodes](https://github.com/R894/LimbusTeamCodes) | 3 个月前 | 🟢 | 编队码生成逻辑 |
 | [LimbusCompute](https://github.com/MusicOnline/LimbusCompute) | 2 年前 | — | 基于 Nuxt 的游戏计算与攻略工具箱。 |
-| [yoloego](https://github.com/limbus2one/yoloego) | 今天 | 🟢 | 生成ego gift 图；识别饰品的yolo模型 |
+| [LimbusEGOGiftYoloModel](https://github.com/limbus2one/LimbusEGOGiftYoloModel) | 今天 | 🟢 | 生成ego gift 图；识别饰品的yolo模型 |
 | [FaustLauncher](https://github.com/f0lkskill/FaustLauncher) | 今天 | — | 集成界面美化与汉化自动更新的 Windows 启动器；[作者主页](https://github.com/f0lkskill)。 |
 | [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | — | — | 包含自动战斗、数值修改等功能；频道可能要求先加入对应服务器。 |
 | [LLauncher](https://github.com/IParallel/LLauncher) | 3 周前 | — | 下载、安装和启动 Limbonia 客户端组件的跨平台桌面启动器。 |
