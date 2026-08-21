@@ -22,6 +22,8 @@
 | [千星的夏夜](https://space.bilibili.com/3493144127605499) | — | 🟢 | 快。[地址](https://docs.qq.com/doc/DSHRjbW9qWEJDdHJZ) |
 | [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | — | 🟢 | 可修改游戏内数据 |
 
+
+
 ## 本地化
 
 | 项目 | 最近更新 | Confirm | 简介 |
@@ -73,8 +75,6 @@
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
 | [limbus-company-dossier](https://github.com/MyLittleChicken/limbus-company-dossier) | 1 周前 | — | 整理人格、E.G.O、饰品、卡包、敌人与事件数据，并开发镜牢选包和配队推荐引擎。 |
-| [Limbus Lit Lens](https://github.com/ayy2zee/limbus-lit-lens) | 2 个月前 | — | 整理十二罪人的文学、哲学与历史出处，提供人物对比、阅读指南和剧透分级；[在线网站](https://ayy2zee.github.io/limbus-lit-lens/)。 |
-| [Limbus News Archive](https://github.com/ItsMalikx/limbus-news-archive) | 1 个月前 | — | 将图片形式的官方公告转换为可搜索文本；另有配套的[公告处理流水线](https://github.com/ItsMalikx/limbus-notice-pipeline)。 |
 | [Limbus ID Creator](https://github.com/ggbb0711/limbus-id-creator) | 1 周前 | — | 在线创建和保存自定义人格卡；[在线网站](https://limbus-company-id-creator.com/)。 |
 | [Limbus Company Plot Video Generator](https://github.com/qbbb718/LimbusCompanyPlotVideoGenerator) | 1 周前 | — | 将剧本、立绘、背景、音效和配音组合为游戏风格的剧情视频。 |
 | [谨遵指令](https://github.com/Oodomber/limbus-command-simulator) | 1 个月前 | — | 在镜牢过程中生成食指风格的编队、路线、商店与饰品指令，并记录加护和业。 |
@@ -111,7 +111,6 @@
 
 | 账号 | Confirm | 简介 |
 | --- | --- | --- |
-| [都市零协会汉化组](https://space.bilibili.com/1247764479) | 🟢 | 发布中文本地化剧情、翻译内容和游戏新手教程 |
 | [吞拿鱼饼](https://space.bilibili.com/21721678) | 🟢 | 按罪人和人格整理语音、台词、卡面与声优信息。 |
 
 ## 私服
