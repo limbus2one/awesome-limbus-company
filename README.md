@@ -52,6 +52,15 @@
 | [FaustLauncher](https://github.com/f0lkskill/FaustLauncher) | 启动器 | 集成界面美化与汉化自动更新的 Windows 启动器。 |
 | [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | 第三方工具 / Discord | 包含自动战斗、数值修改等功能；频道可能要求先加入对应服务器。 |
 
+## 非官方私服
+
+> 私服与 Project Moon 无关，通常需要修改客户端连接方式，可能随游戏更新失效或违反游戏服务条款。请勿复用官服账号密码或其他敏感凭据；运行第三方程序前请检查源码，并优先在本地测试环境使用。
+
+| 项目 | 类型 | 简介 |
+| --- | --- | --- |
+| [OpenLethe](https://github.com/LEAGUE-OF-NINE/OpenLethe) | 私服服务端源码 | Lethe 服务端的 C# / ASP.NET Core 移植版，支持使用 Docker 与 PostgreSQL 自托管。 |
+| [Lethe Discord](https://discord.com/invite/XjsaUNwU) | 社区入口 | Lethe 的社区交流与相关发布入口。 |
+
 ## 官方链接
 
 - [Limbus Company 官网](https://limbuscompany.com/)
