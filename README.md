@@ -11,8 +11,8 @@
 
 | 名称 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
-| [边狱公司中文维基](https://limbuscompany.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5) | — | 🟢 | **中文 Wiki**：灰机 Wiki 上的中文资料站，收录人格、E.G.O、敌人、剧情和关卡等内容。 |
-| [Limbus Company Wiki](https://limbuscompany.wiki.gg/) | — | 🟢 | **英文 Wiki**：wiki.gg 上的社区 Wiki，适合查询游戏机制、剧情与图鉴资料。 |
+| [边狱公司中文维基](https://limbuscompany.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5) | — | 🟢 | 中文wiki，不太好用 |
+| [Limbus Company Wiki](https://limbuscompany.wiki.gg/) | — | 🟢 | 英文 Wiki 好用 |
 | [Namu Wiki：Limbus Company](https://namu.wiki/w/Limbus%20Company) | — | — | 韩语百科条目，整理游戏概况、系统、剧情和运营信息。 |
 | [Prydwen](https://www.prydwen.gg/limbus-company/) | — | — | 人格与 E.G.O 数据库、入门攻略、队伍推荐和 Team Builder。 |
 | [Great Limbus Library](https://gll-fun.com/limbus/en/) | — | — | 人格、E.G.O、状态、镜牢事件与饰品数据库，并提供队伍构建工具。 |
