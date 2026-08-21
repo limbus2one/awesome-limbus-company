@@ -45,6 +45,7 @@
 | 项目 | 类型 | 简介 |
 | --- | --- | --- |
 | [Limbus Story Reader](https://github.com/hakutou29/LimbusStoryReader) | 剧情阅读器 | 在网页中浏览中、日、英、韩本地化剧情、人格和语音文本。 |
+| [Limbus Company - Organized Assets](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z) | 资源档案 | 按音频、字体、图像、文本和视频分类整理的公开 Google Drive 资料盘。 |
 | [eldritchtools/limbus](https://github.com/eldritchtools/limbus) | 网站源码 | Limbus Company Tools 的开源网站项目。 |
 | [limbus-shared-library](https://github.com/eldritchtools/limbus-shared-library) | 数据与组件 | 面向 Limbus 社区项目的共享数据、图片和组件库。 |
 | [LimbusCompute](https://github.com/MusicOnline/LimbusCompute) | Web 工具箱 | 基于 Nuxt 的游戏计算与攻略工具箱。 |
