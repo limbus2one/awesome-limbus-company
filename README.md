@@ -16,14 +16,13 @@
 
 ## 自动化脚本
 
-> 自动化项目会模拟输入、识别画面或修改客户端行为，可能随游戏更新失效，也可能存在账号风险。请优先从项目官方 Release 下载，不要运行来源不明的二次打包版本。
-
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
 | [AhabAssistantLimbusCompany](https://github.com/KIYI671/AhabAssistantLimbusCompany) | 2 天前 | 🟢 | 活跃++ |
 | [LixAssistantLimbusCompany](https://github.com/HSLix/LixAssistantLimbusCompany) | 1 个月前 | 🟢 | 活跃 |
 | [Charge Grinder](https://github.com/Walpth/Charge-Grinder) | 1 天前 | 🟢 | 支持win，linux |
 | [千星的夏夜](https://space.bilibili.com/3493144127605499) | — | 🟢 | 快。[地址](https://docs.qq.com/doc/DSHRjbW9qWEJDdHJZ) |
+| [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | — | 🟢 | 可修改游戏内数据 |
 
 ## 本地化项目
 
@@ -32,7 +31,7 @@
 | [LocalizeLimbusCompany](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) | 2 周前 | 🟢 | 零协会 |
 | [LimbusCompany-iOS-Localization](https://github.com/ghcruise/LimbusCompany-IOS-Localization) | 1 天前 | — | iOS 客户端中文本地化语言包。 |
 | [LocalizeLimbusCompanyForAndroid](https://github.com/pzwboy/LocalizeLimbusCompanyForAndroid) | 1 天前 | — | 基于 iOS 汉化文本制作的 Android 本地化项目。 |
-| [LCTA](https://github.com/HZBHZB1234/LCTA-Limbus-company-transfer-auto) | 1 天前 | — | 集汉化安装、管理、更新和启动于一体的工具集。 |
+| [LCTA](https://github.com/HZBHZB1234/LCTA-Limbus-company-transfer-auto) | 1 天前 | — | 工具集，支持游戏作弊 |
 | [LimbusLocalizationManager](https://github.com/kimght/LimbusLocalizationManager) | 1 周前 | — | 安装、更新、切换和启动多种社区本地化语言包的桌面管理器。 |
 | [LimbusScreenTranslator](https://github.com/kimght/LimbusScreenTranslator) | 1 个月前 | — | 通过可移动悬浮窗显示社区翻译，不修改游戏文件。 |
 | [LLC_MOD_Toolbox](https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox) | 6 天前 | — | 零协会汉化的一键安装、更新、字体与模组管理工具。 |
@@ -54,7 +53,6 @@
 | [LimbusCompute](https://github.com/MusicOnline/LimbusCompute) | 2 年前 | — | 基于 Nuxt 的游戏计算与攻略工具箱。 |
 | [LimbusEGOGiftYoloModel](https://github.com/limbus2one/LimbusEGOGiftYoloModel) | 今天 | 🟢 | 生成ego gift 图；识别饰品的yolo模型 |
 | [FaustLauncher](https://github.com/f0lkskill/FaustLauncher) | 今天 | — | 集成界面美化与汉化自动更新的 Windows 启动器；[作者主页](https://github.com/f0lkskill)。 |
-| [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | — | — | 包含自动战斗、数值修改等功能；频道可能要求先加入对应服务器。 |
 | [LLauncher](https://github.com/IParallel/LLauncher) | 3 周前 | — | 下载、安装和启动 Limbonia 客户端组件的跨平台桌面启动器。 |
 
 ## 更多精选社区项目
