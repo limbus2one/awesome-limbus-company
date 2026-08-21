@@ -71,6 +71,8 @@
 | [绅士丶蚂蚱](https://space.bilibili.com/11401117) | 机制 / 配队 / 镜牢 | 讲解系统机制、队伍构建、资源规划和镜牢效率。 |
 | [光翼展开怪](https://space.bilibili.com/203327043) | 镜牢 / 新手攻略 | 分享镜牢单通、制约与饰品攻略，并解答新手问题。 |
 | [卡巴拉攻略组](https://space.bilibili.com/1246857757) | 考据 / 科普 / 攻略 | 制作 Project Moon 世界观、文本考据、科普与攻略内容。 |
+| [陆爻齐](https://space.bilibili.com/384632772) | LALC 作者 / 开发动态 | LixAssistantLimbusCompany 作者，发布项目更新预告与开发动态。 |
+| [我叫小鸣呀](https://space.bilibili.com/674089538) | 自动化教程 / AutoTiny | 制作自动化镜牢、一键日常和 AutoTiny 配置教程。 |
 | [时色放流](https://space.bilibili.com/527233131) | OST / 战斗 BGM | 持续整理章节、Boss、人格和活动相关的游戏音乐。 |
 | [白鹿球WhiteLu](https://space.bilibili.com/3104151) | 精选音乐 / 游戏原声 | 收录主题曲、Boss 战与剧情相关的精选音乐。 |
 | [吞拿鱼饼](https://space.bilibili.com/21721678) | 人格 / E.G.O 语音 | 按罪人和人格整理语音、台词、卡面与声优信息。 |
