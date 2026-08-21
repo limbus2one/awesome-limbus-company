@@ -63,6 +63,55 @@
 | [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | 第三方工具 / Discord | 包含自动战斗、数值修改等功能；频道可能要求先加入对应服务器。 |
 | [LLauncher](https://github.com/IParallel/LLauncher) | 启动器 / Limbonia | 下载、安装和启动 Limbonia 客户端组件的跨平台桌面启动器。 |
 
+## 更多精选社区项目
+
+> 以下项目来自对 GitHub `limbus` 仓库搜索结果的整理。最近推送日期核验于 2026-08-21；日期仅表示仓库最后一次分支推送，不代表 Release 时间。使用 Mod、自动化或客户端修改工具前请自行评估风险。
+
+### 资料、规划与创作
+
+| 项目 | 类型 | 最近推送 | 简介 |
+| --- | --- | --- | --- |
+| [limbus-company-dossier](https://github.com/MyLittleChicken/limbus-company-dossier) | 镜牢数据库 / 推荐 | 2026-08-18 | 整理人格、E.G.O、饰品、卡包、敌人与事件数据，并开发镜牢选包和配队推荐引擎。 |
+| [Limbus Lit Lens](https://github.com/ayy2zee/limbus-lit-lens) | 文学考据 | 2026-08-11 | 整理十二罪人的文学、哲学与历史出处，提供人物对比、阅读指南和剧透分级；[在线网站](https://ayy2zee.github.io/limbus-lit-lens/)。 |
+| [Limbus News Archive](https://github.com/ItsMalikx/limbus-news-archive) | 官方公告档案 | 2026-07-04 | 将图片形式的官方公告转换为可搜索文本；另有配套的[公告处理流水线](https://github.com/ItsMalikx/limbus-notice-pipeline)。 |
+| [Limbus OC Maker](https://github.com/Nyrrine/limbusoc) | 原创人格编辑器 | 2026-03-15 | 制作自定义人格卡和角色 Wiki，可编辑技能、被动、属性、精神机制与卡面。 |
+| [Limbus ID Creator](https://github.com/ggbb0711/limbus-id-creator) | 人格卡编辑器 | 2026-08-21 | 在线创建和保存自定义人格卡；[在线网站](https://limbus-company-id-creator.com/)。 |
+| [Limbus Company Plot Video Generator](https://github.com/qbbb718/LimbusCompanyPlotVideoGenerator) | 剧情视频生成器 | 2026-08-12 | 将剧本、立绘、背景、音效和配音组合为游戏风格的剧情视频。 |
+| [谨遵指令](https://github.com/Oodomber/limbus-command-simulator) | 镜牢趣味工具 | 2026-07-07 | 在镜牢过程中生成食指风格的编队、路线、商店与饰品指令，并记录加护和业。 |
+| [Interactive City Map](https://github.com/szynszyl320/Interactive_city_map) | 世界观地图 | 2026-05-04 | 通过交互地图集中展示 Project Moon 都市各区、巢和公司的已知资料。 |
+| [Limbus Mod Loader](https://github.com/LEAGUE-OF-NINE/LimbusModLoader) | 视觉与音频 Mod | 2024-10-29 | 加载 Carra、Lunartique 和 Sound Bank 等格式的视觉或音频 Mod。 |
+| [Limbus-Like Lyric Simulator](https://github.com/TempuraYMY0728/Limbus-Like-Lyric-Simulator) | 歌词演出 | 2026-08-09 | 将播放器歌词以游戏战斗演出风格悬浮显示在桌面上。 |
+| [Limbus Terminal Stream](https://github.com/VectorSophie/limbus-terminal-stream) | 终端串流 | 2026-03-13 | 使用 DXGI 捕获游戏，并以真彩色字符在 Windows 终端中显示和转发输入。 |
+| [Lim3ds](https://github.com/aknpxclm/Lim3ds) | Nintendo 3DS 实验 | 2026-08-18 | 使用 C、libctru 和 devkitARM 在 3DS 上重现基础战斗玩法。 |
+
+### 平台与实用工具
+
+| 项目 | 平台 / 类型 | 最近推送 | 简介 |
+| --- | --- | --- | --- |
+| [LLC BABEL](https://github.com/LocalizeLimbusCompany/LLC_BABEL) | Windows / 网络优化 | 2026-07-12 | 测试并选择游戏 CDN 与 API 节点，经确认后写入带备份的 hosts 规则。 |
+| [limbusZhCN](https://github.com/BBBEANNN/limbusZhCN) | Android / 简体中文 | 2026-08-14 | 在 VirtualApp 容器中运行 Google Play 版游戏并提供中文本地化环境。 |
+| [LimbusCompany Nginx Localization](https://github.com/gongfuture/LimbusCompany-Nginx-Localization) | Android Root / 简体中文 | 2026-07-16 | 使用本机 Nginx、hosts 和证书反向代理移动端本地化资源。 |
+| [LLC Updater for macOS](https://github.com/Choi-Peng/LLC_updater) | macOS / CrossOver | 2026-01-20 | 为通过 CrossOver 运行游戏的 macOS 用户安装和更新零协会汉化。 |
+| [Limbus 120 FPS iOS Mod](https://github.com/Vastrilliant/Limbus-Company-120FPS-iOS-Mod) | iOS / 帧率修改 | 2026-08-08 | 在 ProMotion 设备上修改 Unity 显示循环以解锁 120 FPS，需要侧载 IPA。 |
+| [Activision](https://github.com/PhaiKub/Activision) | ESP32-S3 / 自动化 | 2026-08-04 | Charge Grinder 的硬件 HID 版本，由 ESP32-S3 模拟键盘和鼠标输入。 |
+| [LimbusCustomSound](https://github.com/kimght/LimbusCustomSound) | Windows / 音频 Mod | 2025-01-23 | 使用 BepInEx 将游戏语音、BGM 或音效替换为自定义 WAV 文件。 |
+| [Identities Battle Dialogues](https://github.com/WhenThe1/Limbus-Company-Identities-Battle-Dialogues) | English / 战斗气泡 | 2025-10-23 | 为原本没有字幕的部分人格战斗语音添加英文气泡文本。 |
+| [LCBA](https://github.com/gabimiric/LCBA) | Web / 镜牢成就 | 2026-05-09 | 支持筛选、自定义成就、导入导出和浏览器本地保存的镜牢成就追踪器。 |
+
+### 同人与实验项目
+
+| 项目 | 类型 | 最近推送 | 简介 |
+| --- | --- | --- | --- |
+| [Prescript Device](https://github.com/Xyzzya/Prescript-Device) | ESP32 实体设备 | 2026-03-19 | 使用 TFT 屏幕、扬声器和实体按钮制作可生成指令的食指传呼机。 |
+| [Limbus Company Cursors](https://github.com/PlanetaryGear3/Limbus-Cursors) | Windows 指针 | 2026-08-15 | 《边狱巴士》主题的 Windows 鼠标指针包。 |
+| [LCDE](https://github.com/LinYunZhuangZhi/LCDE) | 同人对话编辑器 | 2026-08-19 | 制作游戏风格同人剧情对话的桌面编辑器。 |
+| [Prescripts](https://github.com/Kritzkingvoid/Prescripts) | 指令生成器 | 2026-02-02 | 生成食指风格挑战指令的网页工具。 |
+| [PM World](https://github.com/Sliperr34/PM_World) | CDDA Mod | 2026-05-17 | 为 Cataclysm: Dark Days Ahead 加入 Project Moon 世界观内容。 |
+| [limbus-image](https://github.com/FireIsGood/limbus-image) | 图片生成器 | 2024-09-07 | 自动生成包含全部罪人的 Tier Maker 风格图片。 |
+| [Limbuslikelrc](https://github.com/LKornway/Limbuslikelrc) | 网易云音乐歌词层 | 2026-08-20 | 为网易云音乐制作游戏风格的桌面歌词悬浮层。 |
+| [Limbus Company Story Logs](https://github.com/retcons/limbus-storylogs) | 主线剧情档案 | 2026-06-01 | 在网页中直接浏览主线剧情文本。 |
+| [Limbus Company Identity Logs](https://github.com/retcons/limbus-identitylogs) | 人格剧情档案 | 2024-02-10 | 在网页中浏览人格同期故事，内容更新频率较低。 |
+
 ## 逆向工程与开发资料
 
 > 以下均为社区逆向、格式研究或重新实现，并非 Project Moon 官方公开源码。部分项目涉及解包、客户端修改或协议研究，请遵守游戏服务条款与当地法律。最近推送日期核验于 2026-08-21。
