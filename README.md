@@ -24,12 +24,7 @@
 | --- | --- | --- |
 | [AhabAssistantLimbusCompany](https://github.com/KIYI671/AhabAssistantLimbusCompany) | Windows / Steam | PC 端自动化助手，覆盖日常、采光和镜牢等流程。 |
 | [LixAssistantLimbusCompany](https://github.com/HSLix/LixAssistantLimbusCompany) | Windows / Steam | PC 端一键日常助手，支持采光、镜牢、队伍轮换和自定义任务。 |
-| [MAALimbusCompany](https://github.com/MaaXYZ/MAALimbusCompany) | Android / 模拟器 | 基于 MAA Framework 的图像识别自动化项目。 |
-| [Limbus-Scripts](https://github.com/Xie-Tiao/Limbus-Scripts) | Windows / Steam | 支持多语言界面的 PC 挂机脚本。 |
-| [limbus-company-auto](https://github.com/Janrilw/limbus-company-auto) | Windows / Steam | 基于图像识别的战斗自动化脚本，支持自定义 E.G.O 配置。 |
-| [AutoLuxcavation-Limbus-Company](https://github.com/LoGundes/AutoLuxcavation-Limbus-Company) | Windows / Steam | 面向采光和日常任务的自动化 Mod。 |
 | [WorkerBee v2](https://github.com/Bonkier/workerbeev2) | Windows / Steam | 提供镜牢、采光和定时任务的自动化工具。 |
-| [Mirror-Dungeon-Bot](https://github.com/limbus2one/Mirror-Dungeon-Bot) | Windows / Steam | 无需 OCR 的镜牢自动化项目。 |
 
 ## 本地化项目
 
