@@ -34,7 +34,6 @@
 | [LimbusCompany-iOS-Localization](https://github.com/ghcruise/LimbusCompany-IOS-Localization) | iOS / 简体中文 | iOS 客户端中文本地化语言包。 |
 | [LocalizeLimbusCompanyForAndroid](https://github.com/pzwboy/LocalizeLimbusCompanyForAndroid) | Android / 简体中文 | 基于 iOS 汉化文本制作的 Android 本地化项目。 |
 | [LCTA](https://github.com/HZBHZB1234/LCTA-Limbus-company-transfer-auto) | PC / 简体中文 | 集汉化安装、管理、更新和启动于一体的工具集。 |
-| [MAD](https://github.com/LimbusTraditionalMandarin/MAD) | PC / 繁体中文 | 繁体中文本地化模块自动下载器。 |
 | [Limbus Localization UI](https://github.com/x1bViolet/Limbus-Localization-UI) | Windows / 多语言 | 可预览并编辑游戏本地化 JSON 的桌面工具。 |
 | [Limbus Company Battle Dialog Bubble](https://github.com/Ling-sing/Limbus_Company_Battle_Dialog_Bubble) | 简体中文 | 为部分战斗语音补充中文气泡文本。 |
 | [LimbusDialogueBoxes_EN](https://github.com/NotherWael/LimbusDialogueBoxes_EN) | English | 为部分战斗语音补充英文气泡文本。 |
