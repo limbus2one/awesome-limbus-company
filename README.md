@@ -15,6 +15,8 @@
 | [Prydwen](https://www.prydwen.gg/limbus-company/) | English | 人格与 E.G.O 数据库、入门攻略、队伍推荐和 Team Builder。 |
 | [Great Limbus Library](https://gll-fun.com/limbus/en/) | 多语言 | 人格、E.G.O、状态、镜牢事件与饰品数据库，并提供队伍构建工具。 |
 | [Limbus Company Tools](https://limbus.eldritchtools.com/) | English | 数据库、队伍分享、镜牢规划、计算器、活动计时器等综合工具。 |
+| [E.G.O Gifts](https://limbus.eldritchtools.com/gifts) | English | 可搜索和筛选镜牢 E.G.O 饰品，并查看效果、合成配方、关联事件与主题包。 |
+| [LC Team Builder](https://lcteambuilder.github.io/) | English | 创建和分享人格、E.G.O 编队，提供罪孽资源统计、部署顺序与详细数据；[源码](https://github.com/LCTeamBuilder/LCTeamBuilder.github.io)。 |
 | [Dante's Planner](https://dante-planner.com/) | English | 人格、E.G.O 与饰品数据库，包含镜牢规划、队伍构建和抽取计算。 |
 
 ## 自动化脚本
@@ -44,6 +46,7 @@
 | [Limbus Localization UI](https://github.com/x1bViolet/Limbus-Localization-UI) | Windows / 多语言 | 可预览并编辑游戏本地化 JSON 的桌面工具。 |
 | [Limbus Company Battle Dialog Bubble](https://github.com/Ling-sing/Limbus_Company_Battle_Dialog_Bubble) | 简体中文 | 为部分战斗语音补充中文气泡文本。 |
 | [LimbusDialogueBoxes_EN](https://github.com/NotherWael/LimbusDialogueBoxes_EN) | English | 为部分战斗语音补充英文气泡文本。 |
+| [LimbusSpeechBubbleEN Installer](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer) | Windows / English | 英文气泡文本项目的安装器；仓库仅提供已编译程序，运行前请自行检查。 |
 
 ## 其他相关项目
 
@@ -58,6 +61,7 @@
 | [yoloego](https://github.com/limbus2one/yoloego) | 计算机视觉 | E.G.O Gift 检测数据集生成、场景合成和 YOLO 推理工具。 |
 | [FaustLauncher](https://github.com/f0lkskill/FaustLauncher) | 启动器 | 集成界面美化与汉化自动更新的 Windows 启动器。 |
 | [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | 第三方工具 / Discord | 包含自动战斗、数值修改等功能；频道可能要求先加入对应服务器。 |
+| [LLauncher](https://github.com/IParallel/LLauncher) | 启动器 / Limbonia | 下载、安装和启动 Limbonia 客户端组件的跨平台桌面启动器。 |
 
 ## B 站攻略与资源账号
 
@@ -72,7 +76,7 @@
 | [光翼展开怪](https://space.bilibili.com/203327043) | 镜牢 / 新手攻略 | 分享镜牢单通、制约与饰品攻略，并解答新手问题。 |
 | [卡巴拉攻略组](https://space.bilibili.com/1246857757) | 考据 / 科普 / 攻略 | 制作 Project Moon 世界观、文本考据、科普与攻略内容。 |
 | [陆爻齐](https://space.bilibili.com/384632772) | LALC 作者 / 开发动态 | LixAssistantLimbusCompany 作者，发布项目更新预告与开发动态。 |
-| [我叫小鸣呀](https://space.bilibili.com/674089538) | 自动化教程 / AutoTiny | 制作自动化镜牢、一键日常和 AutoTiny 配置教程。 |
+| [千星的夏夜](https://space.bilibili.com/3493144127605499) | 脚本作者 / 使用教程 | 参与维护免费自动化脚本，并发布基础使用与模拟器端教程。 |
 | [时色放流](https://space.bilibili.com/527233131) | OST / 战斗 BGM | 持续整理章节、Boss、人格和活动相关的游戏音乐。 |
 | [白鹿球WhiteLu](https://space.bilibili.com/3104151) | 精选音乐 / 游戏原声 | 收录主题曲、Boss 战与剧情相关的精选音乐。 |
 | [吞拿鱼饼](https://space.bilibili.com/21721678) | 人格 / E.G.O 语音 | 按罪人和人格整理语音、台词、卡面与声优信息。 |
@@ -86,7 +90,16 @@
 | 项目 | 类型 | 简介 |
 | --- | --- | --- |
 | [OpenLethe](https://github.com/LEAGUE-OF-NINE/OpenLethe) | 私服服务端源码 | Lethe 服务端的 C# / ASP.NET Core 移植版，支持使用 Docker 与 PostgreSQL 自托管。 |
+| [myosotis-server](https://github.com/yuvlian/myosotis-server) | 私服服务端源码 | 原 FurinaLC；提供账号、剧情、编队和采光战斗等基础私服功能，镜牢与铁道等模式尚不支持。 |
 | [Lethe Discord](https://discord.com/invite/XjsaUNwU) | 社区入口 | Lethe 的社区交流与相关发布入口。 |
+
+## 高风险第三方工具
+
+> 此类项目涉及内存修改、注入或未知来源的可执行文件，可能导致账号封禁、数据泄露或恶意软件风险。除非能够独立审计源码并在隔离环境验证，否则不要下载或运行。
+
+| 项目 | 类型 | 简介 |
+| --- | --- | --- |
+| [Limbus Company Cheats](https://github.com/Limbus-Company-Cheats/.github) | Windows / 修改器宣传页 | 声称提供战斗、资源和伤害修改；仓库未提供可审计的工具源码，并引导至站外下载，安全性无法验证。 |
 
 ## 官方链接
 
