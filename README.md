@@ -56,12 +56,26 @@
 | [Limbus Company - Organized Assets](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z) | 资源档案 | 按音频、字体、图像、文本和视频分类整理的公开 Google Drive 资料盘。 |
 | [eldritchtools/limbus](https://github.com/eldritchtools/limbus) | 网站源码 | Limbus Company Tools 的开源网站项目。 |
 | [limbus-shared-library](https://github.com/eldritchtools/limbus-shared-library) | 数据与组件 | 面向 Limbus 社区项目的共享数据、图片和组件库。 |
-| [LimbusTeamCodes](https://github.com/R894/LimbusTeamCodes) | 开发库 | 编队分享码的编码与解码库，提供 Python 和 TypeScript 实现。 |
+| [LimbusTeamCodes](https://github.com/R894/LimbusTeamCodes) | 逆向开发库 | 从游戏二进制逆向编队分享码的编码逻辑，提供 Python 和 TypeScript 实现。 |
 | [LimbusCompute](https://github.com/MusicOnline/LimbusCompute) | Web 工具箱 | 基于 Nuxt 的游戏计算与攻略工具箱。 |
 | [yoloego](https://github.com/limbus2one/yoloego) | 计算机视觉 | E.G.O Gift 检测数据集生成、场景合成和 YOLO 推理工具。 |
 | [FaustLauncher](https://github.com/f0lkskill/FaustLauncher) | 启动器 | 集成界面美化与汉化自动更新的 Windows 启动器。 |
 | [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | 第三方工具 / Discord | 包含自动战斗、数值修改等功能；频道可能要求先加入对应服务器。 |
 | [LLauncher](https://github.com/IParallel/LLauncher) | 启动器 / Limbonia | 下载、安装和启动 Limbonia 客户端组件的跨平台桌面启动器。 |
+
+## 逆向工程与开发资料
+
+> 以下均为社区逆向、格式研究或重新实现，并非 Project Moon 官方公开源码。部分项目涉及解包、客户端修改或协议研究，请遵守游戏服务条款与当地法律。最近推送日期核验于 2026-08-21。
+
+| 项目 | 方向 | 最近推送 | 简介 |
+| --- | --- | --- | --- |
+| [LimbusMetadataRecovery](https://github.com/HZBHZB1234/LimbusMetadataRecovery) | IL2CPP metadata | 2026-08-20 | 自动定位并恢复加密的 `global-metadata.dat`，包含解密参数提取、31 段映射求解和重建校验。 |
+| [myosotis](https://github.com/yuvlian/myosotis) | 客户端补丁 / 协议 | 2026-08-13 | 使用 C++ 实现 IL2CPP 内联 Hook、HTTP 重定向、令牌注入及 Packet 类型导出，配合私服使用。 |
+| [LimbusDumpCS](https://github.com/yuvlian/LimbusDumpCS) | IL2CPP 数据归档 | 2026-06-20 | 保存多个游戏版本通过 `frida-il2cpp` 生成的 `dump.cs` 压缩包；仓库未提供生成工具源码或 README。 |
+| [LimbusApi](https://github.com/Hiro420/LimbusApi) | IL2CPP API | 2025-07-25 | 从游戏目录恢复 IL2CPP API exports 的 C# 工具。 |
+| [limbus-openapi](https://github.com/threwawaythisaccount/limbus-openapi) | 服务端协议 | 2025-03-29 | 根据社区研究整理的游戏服务端 OpenAPI 规范，并提供可浏览的[接口文档](https://docs.lethelc.site/)。 |
+| [Limbus Company File Mapper](https://github.com/IZH318/Limbus-Company-File-Mapper) | 客户端资源 | 2025-02-17 | 根据 `catalog_S1.json` 将 Unity 缓存中的 `__data` 文件重新映射为原始目录与文件名。 |
+| [Limbus Company Battle Simulation](https://github.com/muk46/Limbus-Company-Battle-Simulation) | 战斗机制重建 | 2026-03-13 | 使用 Unity 与 C# 重建合、伤害、精神、共鸣、异常状态及 E.G.O Gift 等战斗系统。 |
 
 ## B 站攻略与资源账号
 
