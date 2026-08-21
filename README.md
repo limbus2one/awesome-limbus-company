@@ -11,6 +11,7 @@
 | --- | --- | --- |
 | [边狱公司中文维基](https://limbuscompany.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5) | 简体中文 | 灰机 Wiki 上的中文资料站，收录人格、E.G.O、敌人、剧情和关卡等内容。 |
 | [Limbus Company Wiki](https://limbuscompany.wiki.gg/) | English | wiki.gg 上的社区 Wiki，适合查询游戏机制、剧情与图鉴资料。 |
+| [Namu Wiki：Limbus Company](https://namu.wiki/w/Limbus%20Company) | 한국어 | 韩语百科条目，整理游戏概况、系统、剧情和运营信息。 |
 | [Prydwen](https://www.prydwen.gg/limbus-company/) | English | 人格与 E.G.O 数据库、入门攻略、队伍推荐和 Team Builder。 |
 | [Great Limbus Library](https://gll-fun.com/limbus/en/) | 多语言 | 人格、E.G.O、状态、镜牢事件与饰品数据库，并提供队伍构建工具。 |
 | [Limbus Company Tools](https://limbus.eldritchtools.com/) | English | 数据库、队伍分享、镜牢规划、计算器、活动计时器等综合工具。 |
@@ -49,6 +50,7 @@
 | [LimbusCompute](https://github.com/MusicOnline/LimbusCompute) | Web 工具箱 | 基于 Nuxt 的游戏计算与攻略工具箱。 |
 | [yoloego](https://github.com/limbus2one/yoloego) | 计算机视觉 | E.G.O Gift 检测数据集生成、场景合成和 YOLO 推理工具。 |
 | [FaustLauncher](https://github.com/f0lkskill/FaustLauncher) | 启动器 | 集成界面美化与汉化自动更新的 Windows 启动器。 |
+| [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | 第三方工具 / Discord | 包含自动战斗、数值修改等功能；频道可能要求先加入对应服务器。 |
 
 ## 官方链接
 
