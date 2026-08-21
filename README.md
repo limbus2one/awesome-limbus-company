@@ -1,18 +1,11 @@
-# Limbus Company 社区资源导航
-
-收集《Limbus Company》常用的 Wiki、自动化脚本、本地化项目和社区工具，方便快速查找。
-
-> [!IMPORTANT]
-> 本列表中的项目大多由社区维护，与 Project Moon 无关。使用自动化、Mod 或第三方本地化前，请自行阅读项目说明、许可证与游戏服务条款，并备份重要文件。项目可能停止维护，下载前请检查最近提交、Release 和 Issue。
-
-> `🟢` 表示该条目已经由维护者确认收录，不代表 Project Moon 官方认可或安全背书。GitHub 项目的“最近更新”按默认分支最后一次 commit 计算，并由自动脚本每日刷新。
+# Limbus Company 导航
 
 ## Wiki 与资料站
 
 | 名称 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
-| [边狱公司中文维基](https://limbuscompany.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5) | — | 🟢 | 中文wiki，不太好用 |
-| [Limbus Company Wiki](https://limbuscompany.wiki.gg/) | — | 🟢 | 英文 Wiki 好用 |
+| [边狱公司中文维基](https://limbuscompany.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5) | — | 🟢 | 中文wiki |
+| [Limbus Company Wiki](https://limbuscompany.wiki.gg/) | — | 🟢**goat** | 英文 Wiki |
 | [Namu Wiki：Limbus Company](https://namu.wiki/w/Limbus%20Company) | — | — | 韩语百科条目，整理游戏概况、系统、剧情和运营信息。 |
 | [Prydwen](https://www.prydwen.gg/limbus-company/) | — | — | 人格与 E.G.O 数据库、入门攻略、队伍推荐和 Team Builder。 |
 | [Great Limbus Library](https://gll-fun.com/limbus/en/) | — | — | 人格、E.G.O、状态、镜牢事件与饰品数据库，并提供队伍构建工具。 |
@@ -27,10 +20,10 @@
 
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
-| [AhabAssistantLimbusCompany](https://github.com/KIYI671/AhabAssistantLimbusCompany) | 2 天前 | 🟢 |  |
-| [LixAssistantLimbusCompany](https://github.com/HSLix/LixAssistantLimbusCompany) | 1 个月前 | 🟢 |  |
+| [AhabAssistantLimbusCompany](https://github.com/KIYI671/AhabAssistantLimbusCompany) | 2 天前 | 🟢 | 活跃++ |
+| [LixAssistantLimbusCompany](https://github.com/HSLix/LixAssistantLimbusCompany) | 1 个月前 | 🟢 | 活跃 |
 | [Charge Grinder](https://github.com/Walpth/Charge-Grinder) | 1 天前 | 🟢 | 支持win，linux |
-| [麋鹿脚本](https://docs.qq.com/doc/DSHRjbW9qWEJDdHJZ) | — | 🟢 | 快 |
+| [千星的夏夜](https://space.bilibili.com/3493144127605499) | — | 🟢 | 快。[地址](https://docs.qq.com/doc/DSHRjbW9qWEJDdHJZ) |
 
 ## 本地化项目
 
@@ -54,12 +47,12 @@
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
 | [Limbus Story Reader](https://github.com/hakutou29/LimbusStoryReader) | 1 周前 | — | 在网页中浏览中、日、英、韩本地化剧情、人格和语音文本。 |
-| [Limbus Company - Organized Assets](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z) | — | — | 按音频、字体、图像、文本和视频分类整理的公开 Google Drive 资料盘。 |
+| [Limbus Company](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z) | — | 🟢 | 解包素材 |
 | [eldritchtools/limbus](https://github.com/eldritchtools/limbus) | 4 天前 | — | Limbus Company Tools 的开源网站项目。 |
 | [limbus-shared-library](https://github.com/eldritchtools/limbus-shared-library) | 5 个月前 | — | 面向 Limbus 社区项目的共享数据、图片和组件库。 |
-| [LimbusTeamCodes](https://github.com/R894/LimbusTeamCodes) | 3 个月前 | — | 从游戏二进制逆向编队分享码的编码逻辑，提供 Python 和 TypeScript 实现。 |
+| [LimbusTeamCodes](https://github.com/R894/LimbusTeamCodes) | 3 个月前 | 🟢 | 编队码生成逻辑 |
 | [LimbusCompute](https://github.com/MusicOnline/LimbusCompute) | 2 年前 | — | 基于 Nuxt 的游戏计算与攻略工具箱。 |
-| [yoloego](https://github.com/limbus2one/yoloego) | 今天 | — | E.G.O Gift 检测数据集生成、场景合成和 YOLO 推理工具。 |
+| [yoloego](https://github.com/limbus2one/yoloego) | 今天 | 🟢 | 生成ego gift 图；识别饰品的yolo模型 |
 | [FaustLauncher](https://github.com/f0lkskill/FaustLauncher) | 今天 | — | 集成界面美化与汉化自动更新的 Windows 启动器；[作者主页](https://github.com/f0lkskill)。 |
 | [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | — | — | 包含自动战斗、数值修改等功能；频道可能要求先加入对应服务器。 |
 | [LLauncher](https://github.com/IParallel/LLauncher) | 3 周前 | — | 下载、安装和启动 Limbonia 客户端组件的跨平台桌面启动器。 |
@@ -115,8 +108,6 @@
 
 ## 逆向工程与开发资料
 
-> 以下均为社区逆向、格式研究或重新实现，并非 Project Moon 官方公开源码。部分项目涉及解包、客户端修改或协议研究，请遵守游戏服务条款与当地法律。最近更新按照默认分支的最后 commit 计算。
-
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
 | [LimbusMetadataRecovery](https://github.com/HZBHZB1234/LimbusMetadataRecovery) | 1 天前 | — | 自动定位并恢复加密的 `global-metadata.dat`，包含解密参数提取、31 段映射求解和重建校验。 |
@@ -129,41 +120,23 @@
 
 ## B 站攻略与资源账号
 
-> 视频可能包含剧情、人格与活动剧透，收录内容和更新频率请以各账号主页为准。
-
 | 账号 | Confirm | 简介 |
 | --- | --- | --- |
-| [都市零协会汉化组](https://space.bilibili.com/1247764479) | — | 发布中文本地化剧情、翻译内容和游戏新手教程。 |
-| [老红白](https://space.bilibili.com/1500020) | — | 更新资讯、人格与 E.G.O 测评及机制攻略。 |
-| [流丽哦](https://space.bilibili.com/16149859) | — | 整理版本改动、一图流攻略和镜牢内容。 |
-| [绅士丶蚂蚱](https://space.bilibili.com/11401117) | — | 讲解系统机制、队伍构建、资源规划和镜牢效率。 |
-| [光翼展开怪](https://space.bilibili.com/203327043) | — | 分享镜牢单通、制约与饰品攻略，并解答新手问题。 |
+| [都市零协会汉化组](https://space.bilibili.com/1247764479) | 🟢 | 发布中文本地化剧情、翻译内容和游戏新手教程 |
 | [卡巴拉攻略组](https://space.bilibili.com/1246857757) | — | 制作 Project Moon 世界观、文本考据、科普与攻略内容。 |
-| [陆爻齐](https://space.bilibili.com/384632772) | — | LixAssistantLimbusCompany 作者，发布项目更新预告与开发动态。 |
-| [千星的夏夜](https://space.bilibili.com/3493144127605499) | — | 参与维护免费自动化脚本，并发布基础使用与模拟器端教程。 |
 | [时色放流](https://space.bilibili.com/527233131) | — | 持续整理章节、Boss、人格和活动相关的游戏音乐。 |
-| [白鹿球WhiteLu](https://space.bilibili.com/3104151) | — | 收录主题曲、Boss 战与剧情相关的精选音乐。 |
-| [吞拿鱼饼](https://space.bilibili.com/21721678) | — | 按罪人和人格整理语音、台词、卡面与声优信息。 |
+| [白鹿球WhiteLu](https://space.bilibili.com/3104151) | 🟢 | 收录主题曲、Boss 战与剧情相关的精选音乐。 |
+| [吞拿鱼饼](https://space.bilibili.com/21721678) | 🟢 | 按罪人和人格整理语音、台词、卡面与声优信息。 |
 | [镀银骑士](https://space.bilibili.com/291106403) | — | 整理人格剧情合订本，并制作主线、间章和前传解说。 |
 | [稚乐梦徊](https://space.bilibili.com/33407583) | — | 收录汉化后的战斗、剧情、人格与 E.G.O 流程。 |
 
-## 非官方私服
-
-> 私服与 Project Moon 无关，通常需要修改客户端连接方式，可能随游戏更新失效或违反游戏服务条款。请勿复用官服账号密码或其他敏感凭据；运行第三方程序前请检查源码，并优先在本地测试环境使用。
+## 私服
 
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
+| [Lethe](https://lethelc.site/) | — | 🟢**goat** | 关于private server 你所需的一切 |
 | [OpenLethe](https://github.com/LEAGUE-OF-NINE/OpenLethe) | 2 天前 | — | Lethe 服务端的 C# / ASP.NET Core 移植版，支持使用 Docker 与 PostgreSQL 自托管。 |
 | [myosotis-server](https://github.com/yuvlian/myosotis-server) | 1 天前 | — | 原 FurinaLC；提供账号、剧情、编队和采光战斗等基础私服功能，镜牢与铁道等模式尚不支持。 |
-| [Lethe Discord](https://discord.com/invite/XjsaUNwU) | — | — | Lethe 的社区交流与相关发布入口。 |
-
-## 高风险第三方工具
-
-> 此类项目涉及内存修改、注入或未知来源的可执行文件，可能导致账号封禁、数据泄露或恶意软件风险。除非能够独立审计源码并在隔离环境验证，否则不要下载或运行。
-
-| 项目 | 最近更新 | Confirm | 简介 |
-| --- | --- | --- | --- |
-| [Limbus Company Cheats](https://github.com/Limbus-Company-Cheats/.github) | 9 个月前 | — | 声称提供战斗、资源和伤害修改；仓库未提供可审计的工具源码，并引导至站外下载，安全性无法验证。 |
 
 ## 官方链接
 
@@ -171,13 +144,3 @@
 - [Limbus Company Twitter / X](https://x.com/LimbusCompany_B)
 - [Steam 商店页面](https://store.steampowered.com/app/1973530/Limbus_Company/)
 - [Project Moon YouTube](https://www.youtube.com/@ProjectMoonOfficial)
-
-## 总监个人主页
-
-- [金智勋（Kim JiHoon）LinkedIn](https://kr.linkedin.com/in/jihoon-kim-7b411821a)
-
-## 参与维护
-
-欢迎通过 Issue 或 Pull Request 推荐项目。提交时请提供项目名称、链接、主要用途、支持平台/语言，并说明项目是否已停止维护。仅收录能够公开访问、与《Limbus Company》直接相关且用途说明清晰的资源。
-
-若链接失效、项目更名或简介有误，也欢迎直接修正。
