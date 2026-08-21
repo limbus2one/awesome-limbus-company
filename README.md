@@ -43,23 +43,11 @@
 | [LCTA](https://github.com/HZBHZB1234/LCTA-Limbus-company-transfer-auto) | 1 天前 | 🟢 | 功能很多的工具集，包括作弊功能 |
 | [FaustLauncher](https://github.com/f0lkskill/FaustLauncher) | 今天 | — | 启动器 |
 
-
-## 其他相关项目
-
-| 项目 | 最近更新 | Confirm | 简介 |
-| --- | --- | --- | --- |
-| [Limbus Story Reader](https://github.com/hakutou29/LimbusStoryReader) | 1 周前 | — | 在网页中浏览中、日、英、韩本地化剧情、人格和语音文本。 |
-
-| [Limbus Company - Organized Assets](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z) | — | 🟢 | 解包素材 |
-| [eldritchtools/limbus](https://github.com/eldritchtools/limbus) | 4 天前 | — | Limbus Company Tools 的开源网站项目。 |
-| [LimbusTeamCodes](https://github.com/R894/LimbusTeamCodes) | 3 个月前 | 🟢 | 编队码生成逻辑 |
-| [LimbusEGOGiftYoloModel](https://github.com/limbus2one/LimbusEGOGiftYoloModel) | 今天 | 🟢 | 生成ego gift 图；识别饰品的yolo模型 |
-
-
 ## limbus风格
 
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
+| [LimbusEGOGiftYoloModel](https://github.com/limbus2one/LimbusEGOGiftYoloModel) | 今天 | 🟢 | 生成ego gift 图；识别饰品的yolo模型 |
 | [Limbus ID Creator](https://github.com/ggbb0711/limbus-id-creator) | 1 周前 | — | 在线创建和保存自定义人格卡 |
 | [Limbus-Like Lyric Simulator](https://github.com/TempuraYMY0728/Limbus-Like-Lyric-Simulator) | 1 周前 | — | 边狱公司歌词演出 |
 | [Limbus Company Cursors](https://github.com/PlanetaryGear3/Limbus-Cursors) | 6 天前 | — | 《边狱巴士》主题的 Windows 鼠标指针包。 |
@@ -70,13 +58,16 @@
 
 | 账号 | Confirm | 简介 |
 | --- | --- | --- |
+| [Limbus Company - Organized Assets](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z) | — | 🟢**goat** | 解包素材 |
 | [吞拿鱼饼](https://space.bilibili.com/21721678) | 🟢 | 语音等资源整理 |
+| [eldritchtools/limbus](https://github.com/eldritchtools/limbus) | 4 天前 | — | Limbus Company Tools 的开源网站项目。 |
 
 ## 逆向和模组
 
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
 | [Lethe](https://lethelc.site/) | — | 🟢**goat** | 关于 private server 你所需的一切 |
+| [LimbusTeamCodes](https://github.com/R894/LimbusTeamCodes) | 3 个月前 | 🟢 | 编队码生成逻辑 |
 | [LimbusMetadataRecovery](https://github.com/HZBHZB1234/LimbusMetadataRecovery) | 1 天前 | — | 自动定位并恢复加密的 `global-metadata.dat`，包含解密参数提取、31 段映射求解和重建校验。 |
 | [myosotis](https://github.com/yuvlian/myosotis) | 1 周前 | — | 使用 C++ 实现 IL2CPP 内联 Hook、HTTP 重定向、令牌注入及 Packet 类型导出，配合私服使用。 |
 | [LimbusDumpCS](https://github.com/yuvlian/LimbusDumpCS) | 2 个月前 | — | 保存了多个游戏版本通过 `frida-il2cpp` 生成的 `dump.cs` 压缩包 |
