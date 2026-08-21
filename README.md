@@ -123,12 +123,7 @@
 | 账号 | Confirm | 简介 |
 | --- | --- | --- |
 | [都市零协会汉化组](https://space.bilibili.com/1247764479) | 🟢 | 发布中文本地化剧情、翻译内容和游戏新手教程 |
-| [卡巴拉攻略组](https://space.bilibili.com/1246857757) | — | 制作 Project Moon 世界观、文本考据、科普与攻略内容。 |
-| [时色放流](https://space.bilibili.com/527233131) | — | 持续整理章节、Boss、人格和活动相关的游戏音乐。 |
-| [白鹿球WhiteLu](https://space.bilibili.com/3104151) | 🟢 | 收录主题曲、Boss 战与剧情相关的精选音乐。 |
 | [吞拿鱼饼](https://space.bilibili.com/21721678) | 🟢 | 按罪人和人格整理语音、台词、卡面与声优信息。 |
-| [镀银骑士](https://space.bilibili.com/291106403) | — | 整理人格剧情合订本，并制作主线、间章和前传解说。 |
-| [稚乐梦徊](https://space.bilibili.com/33407583) | — | 收录汉化后的战斗、剧情、人格与 E.G.O 流程。 |
 
 ## 私服
 
