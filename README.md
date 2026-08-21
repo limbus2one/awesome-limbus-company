@@ -52,6 +52,7 @@
 ## 官方链接
 
 - [Limbus Company 官网](https://limbuscompany.com/)
+- [Limbus Company Twitter / X](https://x.com/LimbusCompany_B)
 - [Steam 商店页面](https://store.steampowered.com/app/1973530/Limbus_Company/)
 - [Project Moon YouTube](https://www.youtube.com/@ProjectMoonOfficial)
 
