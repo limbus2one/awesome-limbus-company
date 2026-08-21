@@ -48,6 +48,7 @@
 | [Limbus Company - Organized Assets](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z) | 资源档案 | 按音频、字体、图像、文本和视频分类整理的公开 Google Drive 资料盘。 |
 | [eldritchtools/limbus](https://github.com/eldritchtools/limbus) | 网站源码 | Limbus Company Tools 的开源网站项目。 |
 | [limbus-shared-library](https://github.com/eldritchtools/limbus-shared-library) | 数据与组件 | 面向 Limbus 社区项目的共享数据、图片和组件库。 |
+| [LimbusTeamCodes](https://github.com/R894/LimbusTeamCodes) | 开发库 | 编队分享码的编码与解码库，提供 Python 和 TypeScript 实现。 |
 | [LimbusCompute](https://github.com/MusicOnline/LimbusCompute) | Web 工具箱 | 基于 Nuxt 的游戏计算与攻略工具箱。 |
 | [yoloego](https://github.com/limbus2one/yoloego) | 计算机视觉 | E.G.O Gift 检测数据集生成、场景合成和 YOLO 推理工具。 |
 | [FaustLauncher](https://github.com/f0lkskill/FaustLauncher) | 启动器 | 集成界面美化与汉化自动更新的 Windows 启动器。 |
