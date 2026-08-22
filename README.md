@@ -21,7 +21,7 @@
 | [Charge Grinder](https://github.com/Walpth/Charge-Grinder) | 2 天前 | 🟢 | 支持win，linux |
 | [千星的夏夜](https://docs.qq.com/doc/DSHRjbW9qWEJDdHJZ) | — | 🟢 | 快 |
 | [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | — | 🟢 | 可修改游戏内数据 |
-| [Activision](https://github.com/PhaiKub/Activision) | 2 周前 | — | Charge Grinder 的反作弊版本 |
+| [Activision](https://github.com/PhaiKub/Activision) | 2 周前 | 🟢 | Charge Grinder 的反作弊版本 |
 |[LCBT](https://github.com/huoyuanbawan/LCBT) |  | 🟢 | 轨道线脚本 |
 ## 本地化
 
