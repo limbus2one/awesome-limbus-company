@@ -23,7 +23,7 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
 | [AhabAssistantLimbusCompany](https://github.com/KIYI671/AhabAssistantLimbusCompany) | 3 天前 | 🟢 | 比较活跃 |
-| [LixAssistantLimbusCompany](https://github.com/HSLix/LixAssistantLimbusCompany) | 1 个月前 | 🟢 |  |
+| [LixAssistantLimbusCompany](https://github.com/HSLix/LixAssistantLimbusCompany) | 1 个月前 | 🟢 | 过去用过，后来断更换了。还在更新 |
 | [Charge Grinder](https://github.com/Walpth/Charge-Grinder) | 2 天前 | 🟢 | 支持win，linux |
 | [千星的夏夜](https://docs.qq.com/doc/DSHRjbW9qWEJDdHJZ) | — | 🟢 | 很快 |
 | [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | — | 🟢 | 额外支持一些作弊功能 |
