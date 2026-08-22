@@ -28,7 +28,9 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | [千星的夏夜](https://docs.qq.com/doc/DSHRjbW9qWEJDdHJZ) | — | 🟢 | 很快 |
 | [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | — | 🟢 | 额外支持一些作弊功能 |
 | [Activision](https://github.com/PhaiKub/Activision) | 2 周前 | 🟢 | Charge Grinder 的反作弊版本 |
+|[LCBA](https://docs.qq.com/doc/DQnFtc2NRY0F6UEN2) | | 🟢| 过去用过，还活着 |
 |[LCBT](https://github.com/huoyuanbawan/LCBT) |  | 🟢 | 轨道线脚本，可以参考代码 |
+
 ## 本地化
 
 | 项目 | 最近更新 | Confirm | 简介 |
