@@ -56,10 +56,10 @@
 
 ## 资源整理
 
-| 账号 | Confirm | 简介 |
-| --- | --- | --- |
+| 项目 | 最近更新 | Confirm | 简介 |
+| --- | --- | --- | --- |
 | [Limbus Company - Organized Assets](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z) | — | 🟢**goat** | 解包素材 |
-| [吞拿鱼饼](https://space.bilibili.com/21721678) | 🟢 | 语音等资源整理 |
+| [吞拿鱼饼](https://space.bilibili.com/21721678) | | 🟢 | 语音等资源整理 |
 | [eldritchtools/limbus](https://github.com/eldritchtools/limbus) | 4 天前 | — | Limbus Company Tools 的开源网站项目。 |
 
 ## 逆向和模组
