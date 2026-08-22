@@ -1,6 +1,10 @@
 # Limbus Company 导航
 
-收录独一的，完成使命前还没有dead的项目
+收录独一的，完成了使命，或者还没有dead的项目
+
+confirm：表示我知道有这个东西，仅此。
+
+goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置疑的好。总是活跃，稳定，且易于使用。
 
 ## Wiki 与资料站
 
@@ -16,13 +20,13 @@
 
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
-| [AhabAssistantLimbusCompany](https://github.com/KIYI671/AhabAssistantLimbusCompany) | 3 天前 | 🟢 | 活跃++ |
-| [LixAssistantLimbusCompany](https://github.com/HSLix/LixAssistantLimbusCompany) | 1 个月前 | 🟢 | 活跃 |
+| [AhabAssistantLimbusCompany](https://github.com/KIYI671/AhabAssistantLimbusCompany) | 3 天前 | 🟢 | 比较活跃 |
+| [LixAssistantLimbusCompany](https://github.com/HSLix/LixAssistantLimbusCompany) | 1 个月前 | 🟢 |  |
 | [Charge Grinder](https://github.com/Walpth/Charge-Grinder) | 2 天前 | 🟢 | 支持win，linux |
-| [千星的夏夜](https://docs.qq.com/doc/DSHRjbW9qWEJDdHJZ) | — | 🟢 | 快 |
-| [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | — | 🟢 | 可修改游戏内数据 |
+| [千星的夏夜](https://docs.qq.com/doc/DSHRjbW9qWEJDdHJZ) | — | 🟢 | 很快 |
+| [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | — | 🟢 | 额外支持一些作弊功能 |
 | [Activision](https://github.com/PhaiKub/Activision) | 2 周前 | 🟢 | Charge Grinder 的反作弊版本 |
-|[LCBT](https://github.com/huoyuanbawan/LCBT) |  | 🟢 | 轨道线脚本 |
+|[LCBT](https://github.com/huoyuanbawan/LCBT) |  | 🟢 | 轨道线脚本，可以参考代码 |
 ## 本地化
 
 | 项目 | 最近更新 | Confirm | 简介 |
@@ -32,7 +36,7 @@
 | [LocalizeLimbusCompanyForAndroid](https://github.com/pzwboy/LocalizeLimbusCompanyForAndroid) | 今天 | — | 安卓端汉化 |
 | [LimbusLocalizationManager](https://github.com/kimght/LimbusLocalizationManager) | 2 周前 | 🟢 | 多语言本地化管理器。 |
 | [Limbus Localization UI](https://github.com/x1bViolet/Limbus-Localization-UI) | 3 周前 | — | 游戏本地化编辑器 |
-| [LimbusDialogueBoxes_EN](https://github.com/NotherWael/LimbusDialogueBoxes_EN) | 2 个月前 | 🟢 | 英文气泡文本模组 |
+| [LimbusDialogueBoxes_EN](https://github.com/NotherWael/LimbusDialogueBoxes_EN) | 2 个月前 | 🟢 | 气泡文本模组 |
 
 ## 工具箱
 
@@ -41,26 +45,27 @@
 | [LLC_MOD_Toolbox](https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox) | 1 周前 | 🟢 | 零协会mod工具箱。 |
 | [LLC BABEL](https://github.com/LocalizeLimbusCompany/LLC_BABEL) | 1 个月前 | 🟢 | 零协会优化网络连接工具 |
 | [LCTA](https://github.com/HZBHZB1234/LCTA-Limbus-company-transfer-auto) | 2 天前 | 🟢 | 功能很多的工具集，包括作弊功能 |
-| [FaustLauncher](https://github.com/f0lkskill/FaustLauncher) | 1 天前 | — | 启动器 |
+| [FaustLauncher](https://github.com/f0lkskill/FaustLauncher) | 1 天前 | 🟢 | 浮士德启动器 |
 
 ## limbus风格
 
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
 | [LimbusEGOGiftYoloModel](https://github.com/limbus2one/LimbusEGOGiftYoloModel) | 1 天前 | 🟢 | 生成ego gift 图；识别饰品的yolo模型 |
-| [Limbus ID Creator](https://github.com/ggbb0711/limbus-id-creator) | 1 周前 | — | 在线创建和保存自定义人格卡 |
-| [Limbus-Like Lyric Simulator](https://github.com/TempuraYMY0728/Limbus-Like-Lyric-Simulator) | 1 周前 | — | 边狱公司歌词演出 |
-| [Limbus Company Cursors](https://github.com/PlanetaryGear3/Limbus-Cursors) | 1 周前 | — | 《边狱巴士》主题的 Windows 鼠标指针包。 |
-| [PM World](https://github.com/Sliperr34/PM_World) | 3 个月前 | — | 为 Cataclysm: Dark Days Ahead 加入 Project Moon 世界观内容。 |
-| [LC Team Builder](https://lcteambuilder.github.io/) | 1 年前 | — | 编队 |
+| [Limbus ID Creator](https://github.com/ggbb0711/limbus-id-creator) | 1 周前 | 🟢 | 创建人格卡片，技能图等 |
+| [Limbus-Like Lyric Simulator](https://github.com/TempuraYMY0728/Limbus-Like-Lyric-Simulator) | 1 周前 | 🟢 | limbus歌词演出 |
+| [Limbus Company Cursors](https://github.com/PlanetaryGear3/Limbus-Cursors) | 1 周前 | 🟢 | limbus主题的 Windows 鼠标指针包 |
+| [PM World](https://github.com/Sliperr34/PM_World) | 3 个月前 | 🟢 | 为 Cataclysm: Dark Days Ahead 加入异想体 |
+| [LC Team Builder](https://lcteambuilder.github.io/) | 1 年前 | 🟢 | 编队，可以参考代码 |
+| [Limbus Company Tools](https://github.com/eldritchtools/limbus) |  | 🟢 | limbus 攻略站。但实用性不高，如果想要搞些limbus风格的东西，可以参考代码 |
 
 ## 资源整理
 
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
 | [Limbus Company - Organized Assets](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z) | — | 🟢**goat** | 解包素材 |
-| [吞拿鱼饼](https://space.bilibili.com/21721678) | | 🟢 | 语音等资源整理 |
-| [eldritchtools/limbus](https://github.com/eldritchtools/limbus) | 4 天前 | — | Limbus Company Tools 的开源网站项目。 |
+| [吞拿鱼饼](https://space.bilibili.com/21721678) | | 🟢 | 人格台词 |
+| [eldritchtools/limbus](https://github.com/eldritchtools/limbus) | 4 天前 | 🟢 | Limbus Company Tools 的开源网站项目。 |
 
 ## 逆向和模组
 
