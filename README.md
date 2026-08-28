@@ -77,7 +77,7 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | --- | --- | --- | --- |
 | [Lethe](https://lethelc.site/) | — | 🟢**goat** | 关于 private server 你所需的一切 |
 | [LimbusTeamCodes](https://github.com/R894/LimbusTeamCodes) | 3 个月前 | 🟢 | 编队码生成逻辑 |
-| [decryption](https://github.com/limbus2one/decryption) | 6 天前 | 🟢 | 解密某款游戏的数据包 |
+| [decryption](https://github.com/limbus2one/decryption) | 不可访问 | 🟢 | 解密某款游戏的数据包 |
 | [LimbusMetadataRecovery](https://github.com/HZBHZB1234/LimbusMetadataRecovery) | 1 周前 | — | 自动定位并恢复加密的 `global-metadata.dat`，包含解密参数提取、31 段映射求解和重建校验。 |
 | [myosotis](https://github.com/yuvlian/myosotis) | 2 周前 | — | 使用 C++ 实现 IL2CPP 内联 Hook、HTTP 重定向、令牌注入及 Packet 类型导出，配合私服使用。 |
 | [LimbusDumpCS](https://github.com/yuvlian/LimbusDumpCS) | 2 个月前 | — | 保存了多个游戏版本通过 `frida-il2cpp` 生成的 `dump.cs` 压缩包 |
