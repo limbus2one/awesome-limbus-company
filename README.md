@@ -16,18 +16,18 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | [边狱公司中文维基](https://limbuscompany.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5) | — | 🟢 | 中文wiki |
 | [Namu Wiki：Limbus Company](https://namu.wiki/w/Limbus%20Company) | — | 🟢 | 韩语百科条目，整理游戏概况、系统、剧情和运营信息。 |
 | [Limbus Company Tools](https://limbus.eldritchtools.com/) | — | 🟢 | 数据库、队伍分享、镜牢规划、计算器、活动计时器等综合工具。 |
-| [Dante's Planner](https://dante-planner.com/) | 2 天前 | 🟢 | 界面美观；[源码](https://github.com/phrimm136/dante-planner)。 |
+| [Dante's Planner](https://dante-planner.com/) | 3 天前 | 🟢 | 界面美观；[源码](https://github.com/phrimm136/dante-planner)。 |
 
 ## 自动化脚本
 
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
-| [AhabAssistantLimbusCompany](https://github.com/KIYI671/AhabAssistantLimbusCompany) | 4 天前 | 🟢 | 比较活跃 |
+| [AhabAssistantLimbusCompany](https://github.com/KIYI671/AhabAssistantLimbusCompany) | 1 天前 | 🟢 | 比较活跃 |
 | [LixAssistantLimbusCompany](https://github.com/HSLix/LixAssistantLimbusCompany) | 1 个月前 | 🟢 | 过去用过，后来断更换了。还在更新 |
 | [Charge Grinder](https://github.com/Walpth/Charge-Grinder) | 2 周前 | 🟢 | 支持win，linux |
 | [千星的夏夜](https://docs.qq.com/doc/DSHRjbW9qWEJDdHJZ) | — | 🟢 | 很快 |
 | [Limbonia](https://discord.com/channels/1211833402337271828/1291619274716348517) | — | 🟢 | 额外支持一些作弊功能 |
-| [Activision](https://github.com/PhaiKub/Activision) | 1 天前 | 🟢 | Charge Grinder 的硬件 HID 版本，由 ESP32-S3 模拟键盘和鼠标输入。 |
+| [Activision](https://github.com/PhaiKub/Activision) | 2 天前 | 🟢 | Charge Grinder 的硬件 HID 版本，由 ESP32-S3 模拟键盘和鼠标输入。 |
 |[LCBA](https://docs.qq.com/doc/DQnFtc2NRY0F6UEN2) | | 🟢| 过去用过，还活着 |
 | [LCBT](https://github.com/huoyuanbawan/LCBT) | 1 年前 | 🟢 | 轨道线脚本，可以参考代码 |
 
@@ -37,7 +37,7 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | --- | --- | --- | --- |
 | [LocalizeLimbusCompany](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) | 1 个月前 | 🟢 | 零协会汉化 |
 | [LimbusCompany-iOS-Localization](https://github.com/ghcruise/LimbusCompany-IOS-Localization) | 1 周前 | — | iOS 端汉化 |
-| [LocalizeLimbusCompanyForAndroid](https://github.com/pzwboy/LocalizeLimbusCompanyForAndroid) | 1 天前 | — | 安卓端汉化 |
+| [LocalizeLimbusCompanyForAndroid](https://github.com/pzwboy/LocalizeLimbusCompanyForAndroid) | 2 天前 | — | 安卓端汉化 |
 | [LimbusLocalizationManager](https://github.com/kimght/LimbusLocalizationManager) | 4 周前 | 🟢 | 多语言本地化管理器。 |
 | [Limbus Localization UI](https://github.com/x1bViolet/Limbus-Localization-UI) | 1 个月前 | — | 游戏本地化编辑器 |
 | [LimbusDialogueBoxes_EN](https://github.com/NotherWael/LimbusDialogueBoxes_EN) | 3 个月前 | 🟢 | 气泡文本模组 |
@@ -57,11 +57,11 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | --- | --- | --- | --- |
 | [LimbusEGOGiftYoloModel](https://github.com/limbus2one/LimbusEGOGiftYoloModel) | 2 周前 | 🟢 | 生成ego gift 图；识别饰品的yolo模型 |
 | [Limbus ID Creator](https://github.com/ggbb0711/limbus-id-creator) | 3 周前 | 🟢 | 创建人格卡片，技能图等 |
-| [Limbus-Like Lyric Simulator](https://github.com/TempuraYMY0728/Limbus-Like-Lyric-Simulator) | 3 周前 | 🟢 | limbus歌词演出 |
+| [Limbus-Like Lyric Simulator](https://github.com/TempuraYMY0728/Limbus-Like-Lyric-Simulator) | 4 周前 | 🟢 | limbus歌词演出 |
 | [Limbus Company Cursors](https://github.com/PlanetaryGear3/Limbus-Cursors) | 3 周前 | 🟢 | limbus主题的 Windows 鼠标指针包 |
 | [PM World](https://github.com/Sliperr34/PM_World) | 3 个月前 | 🟢 | 为 Cataclysm: Dark Days Ahead 加入异想体 |
 | [LC Team Builder](https://lcteambuilder.github.io/) | 1 年前 | 🟢 | 编队，可以参考代码 |
-| [Limbus Company Tools](https://github.com/eldritchtools/limbus) | 2 天前 | 🟢 | limbus 攻略站。但实用性不高，如果想要搞些limbus风格的东西，可以参考代码 |
+| [Limbus Company Tools](https://github.com/eldritchtools/limbus) | 3 天前 | 🟢 | limbus 攻略站。但实用性不高，如果想要搞些limbus风格的东西，可以参考代码 |
 
 ## 资源整理
 
@@ -69,7 +69,7 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | --- | --- | --- | --- |
 | [Limbus Company - Organized Assets](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z) | — | 🟢**goat** | 解包素材 |
 | [吞拿鱼饼](https://space.bilibili.com/21721678) | | 🟢 | 人格台词 |
-| [eldritchtools/limbus](https://github.com/eldritchtools/limbus) | 2 天前 | 🟢 | Limbus Company Tools 的开源网站项目。 |
+| [eldritchtools/limbus](https://github.com/eldritchtools/limbus) | 3 天前 | 🟢 | Limbus Company Tools 的开源网站项目。 |
 
 ## 逆向和模组
 
@@ -203,12 +203,12 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | [Localize Limbus Company 文档站](https://zeroasso.top/) | — | — | 安装、更新、常见问题、社区与配套工具文档。 |
 | [LimbusCompanySpanishTranslationTeam](https://github.com/Dreams-Office/LimbusCompanySpanishTranslationTeam) | 9 个月前 | — | Limbus Company 西班牙语社区翻译。 |
 | [LimbusCompanyTH](https://github.com/Limbus-Company-Thai-Translation/LimbusCompanyTH) | 1 年前 | — | 泰语社区翻译。 |
-| [LocalizeLimbusTH](https://github.com/stlinx/LocalizeLimbusTH) | 2 天前 | — | 泰语本地化安装/文件项目。（观察项：与 Thai Translation Team 的关系需去重。） |
+| [LocalizeLimbusTH](https://github.com/stlinx/LocalizeLimbusTH) | 3 天前 | — | 泰语本地化安装/文件项目。（观察项：与 Thai Translation Team 的关系需去重。） |
 | [limbuscompanyturkishtranslation](https://github.com/Nephren01/limbuscompanyturkishtranslation) | 1 年前 | — | 土耳其语社区翻译。（需标注：覆盖稀缺语言，需抽样核验。） |
-| [LimbusCompanyBusFR](https://github.com/Eden-Office/LimbusCompanyBusFR) | 2 天前 | — | 法语社区翻译。（需标注：多语种导航价值。） |
+| [LimbusCompanyBusFR](https://github.com/Eden-Office/LimbusCompanyBusFR) | 3 天前 | — | 法语社区翻译。（需标注：多语种导航价值。） |
 | [LimbusCompanyBusRUS](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | 11 个月前 | — | 俄语社区翻译。（需标注：需说明人译/机翻差异。） |
 | [DivineCompany_RussianTranslationDepartment](https://github.com/Divine-Company/DivineCompany_RussianTranslationDepartment) | 3 周前 | — | 俄语本地化项目。（观察项：与其他俄语项目重叠，建议做对比表。） |
-| [LimbusCompanyRuMTL](https://github.com/x1bViolet/LimbusCompanyRuMTL) | 2 天前 | — | 俄语机器翻译版本。（需标注：必须显著标注 MTL，不与人工本地化同级。） |
+| [LimbusCompanyRuMTL](https://github.com/x1bViolet/LimbusCompanyRuMTL) | 3 天前 | — | 俄语机器翻译版本。（需标注：必须显著标注 MTL，不与人工本地化同级。） |
 | [CLT-District Limbus Brasil](https://github.com/Eike-Felipe/CLT-District_Limbus-Brasil) | 8 个月前 | — | 巴西葡萄牙语社区翻译。（需标注：覆盖巴西社区。） |
 | [MAD](https://github.com/LimbusTraditionalMandarin/MAD) | 1 年前 | — | 繁体中文本地化与相关工具/档案入口。 |
 | [LZCR Limbus Zh-TW Converter](https://github.com/sipdetect/LZCR-Limbus-Zh-TW-Converter) | 4 个月前 | — | 简繁/繁中本地化转换工具。（需标注：确认与 MAD/LLC 的兼容关系。） |
@@ -216,7 +216,7 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | [limbus-hu](https://github.com/my-man-11/limbus-hu) | 1 年前 | — | 匈牙利语社区翻译。（需标注：稀缺语言资源。） |
 | [Limbus Company Nederlandse Vertaling](https://github.com/Wiry128/Limbus-Company-Nederlandse-Vertaling) | 10 个月前 | — | 荷兰语社区翻译。（需标注：稀缺语言资源。） |
 | [LimbusCompanyTempLoc](https://github.com/Cynanchum0109/LimbusCompanyTempLoc) | 2 个月前 | — | 临时或实验性中文本地化。（观察项：与成熟 LLC 项目可能重复。） |
-| [rainbus-toolbox](https://github.com/EnderDremurr/rainbus-toolbox) | 1 个月前 | — | 本地化与 Limbus 文件相关工具集合。 |
+| [rainbus-toolbox](https://github.com/EnderDremurr/rainbus-toolbox) | 1 天前 | — | 本地化与 Limbus 文件相关工具集合。 |
 | [google-translate-limbus](https://github.com/MonoScyron/google-translate-limbus) | 1 年前 | — | 使用 Google Translate 生成/辅助 Limbus 翻译。（需标注：仅放实验/工具区，不与人工汉化同级。） |
 | [LCB-translation-randomizer](https://github.com/jinglejingle3344/LCB-translation-randomizer) | 2 个月前 | — | 随机化/改写本地化文本的娱乐性项目。（需标注：放粉丝工具而非本地化主入口。） |
 | [LLC Chinese Font Asset](https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset) | 1 年前 | — | 早期中文字体资产。（需标注：仅开发历史/兼容参考。） |
@@ -226,14 +226,14 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | [Limbus-Company-Sapinking](https://github.com/Gatos23/Limbus-Company-Sapinking) | 1 年前 | — | 社区翻译/文本改写项目。（观察项：定位和语言质量待核。） |
 | [Traducciones-Sapinking](https://github.com/AkkoTheFixer/Traducciones-Sapinking) | 5 个月前 | — | 相关翻译项目。（观察项：与同类项目去重。） |
 | [LimbusLocalizeRU](https://github.com/KJHater/LimbusLocalizeRU) | 2 年前 | — | 俄语本地化。（观察项：俄语项目众多，先做完整度/活跃度对比。） |
-| [Limbus-RU-Full](https://github.com/Slavuck/Limbus-RU-Full) | 5 天前 | — | 俄语完整翻译候选。（观察项：名称宣称 Full，但需抽样和版本核验。） |
+| [Limbus-RU-Full](https://github.com/Slavuck/Limbus-RU-Full) | 6 天前 | — | 俄语完整翻译候选。（观察项：名称宣称 Full，但需抽样和版本核验。） |
 | [LimbusCompanyTransferTool](https://github.com/LocalizeLimbusCompany/LimbusCompanyTransferTool) | 6 个月前 | — | 本地化文件转移/兼容工具。（需标注：与 LCTA 的上游/替代关系需说明。） |
 | [ParatranzUploader](https://github.com/user-unknown-0711/ParatranzUploader) | 5 个月前 | — | 向 Paratranz 上传/同步翻译的工具。（需标注：面向翻译协作开发者。） |
 | [AutoLLC](https://github.com/notxart/AutoLLC) | 1 年前 | — | 自动安装或同步 LLC 翻译。（观察项：与官方配套工具重叠，需确定是否仍有必要。） |
 | [limbusTranTools](https://github.com/Wudenminn/limbusTranTools) | 1 个月前 | — | Limbus 文本处理与翻译工具。（需标注：开发者工具候选。） |
-| [LimbusDubHub](https://github.com/xiaowumin-mark/LimbusDubHub) | 1 个月前 | — | Limbus 配音/语音替换或整理工具。（需标注：执行/音频替换型工具，需安全和版权说明。） |
+| [LimbusDubHub](https://github.com/xiaowumin-mark/LimbusDubHub) | 2 个月前 | — | Limbus 配音/语音替换或整理工具。（需标注：执行/音频替换型工具，需安全和版权说明。） |
 | [storyline-template](https://github.com/LimbusTraditionalMandarin/storyline-template) | 1 年前 | — | 繁中剧情翻译的模板/协作结构。（需标注：放开发者/贡献指南区。） |
-| [Limbus-Localization-Files](https://github.com/x1bViolet/Limbus-Localization-Files) | 2 天前 | — | 本地化文件集合。（需标注：与 UI/Manager 配套。） |
+| [Limbus-Localization-Files](https://github.com/x1bViolet/Limbus-Localization-Files) | 3 天前 | — | 本地化文件集合。（需标注：与 UI/Manager 配套。） |
 | [AutoLocalization](https://github.com/Cynanchum0109/AutoLocalization) | 8 个月前 | — | 自动化本地化实验。（观察项：与成熟工具重叠，先观察。） |
 | [BusTranslate_Launcher](https://github.com/BusTranslate/BusTranslate_Launcher) | 不可访问 | — | 本地化安装/更新启动器。（观察项：核验仓库归属、二进制发布与维护状态。） |
 
@@ -243,7 +243,7 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | --- | --- | --- | --- |
 | [LetheLauncher](https://github.com/LEAGUE-OF-NINE/LetheLauncher) | 2 个月前 | — | 连接/管理 Lethe 私服环境的客户端启动器。 |
 | [BasePlugin](https://github.com/LEAGUE-OF-NINE/BasePlugin) | 1 年前 | — | Limbus Mod/私服插件的基础模板或公共依赖。 |
-| [ModularLimbis](https://github.com/LEAGUE-OF-NINE/ModularLimbis) | 2 天前 | — | Limbus Mod 的模块化框架/组件。 |
+| [ModularLimbis](https://github.com/LEAGUE-OF-NINE/ModularLimbis) | 1 天前 | — | Limbus Mod 的模块化框架/组件。 |
 | [motions](https://github.com/LEAGUE-OF-NINE/motions) | 2 周前 | — | Limbus 动作/动画相关的 Mod 或资源。（需标注：核验具体目标和数据来源。） |
 | [FurinaLC](https://github.com/LEAGUE-OF-NINE/FurinaLC) | 2 周前 | — | 早期 limbus-server README 指向的替代私服实现。（需标注：说明与 OpenLethe 的时代和替代关系。） |
 | [carra2bundle](https://github.com/skyrookcruiser/carra2bundle) | 1 年前 | — | 将角色/素材处理为游戏 bundle 的开发工具。（需标注：适合 Mod 开发区。） |
@@ -257,7 +257,7 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
 | [Organized Limbus Company Files](https://drive.google.com/drive/folders/1Nk9-nPp9G8uLHV5M1M4t2hAaYJnYkRjt) | — | — | 整理 CG、图标、语音、UI 和其他游戏素材。 |
-| [limbus-assets](https://github.com/eldritchtools/limbus-assets) | 2 天前 | — | 为 Limbus 工具站提供图片与数据资产。 |
+| [limbus-assets](https://github.com/eldritchtools/limbus-assets) | 3 天前 | — | 为 Limbus 工具站提供图片与数据资产。 |
 | [limbus-image](https://github.com/FireIsGood/limbus-image) | 1 年前 | — | Limbus 图像/素材集合。 |
 | [LimbusStaticData](https://github.com/flaglow/LimbusStaticData) | 1 年前 | — | 导出的静态游戏数据。（需标注：无许可证且已过期，只作历史快照。） |
 | [limbus_data](https://github.com/monthofjune/limbus_data) | 1 个月前 | — | Limbus 数据文件集合。（需标注：候选数据源，需检查更新方法。） |
@@ -285,7 +285,7 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | [limbus-company-farming-calculator](https://github.com/throughvioletsunsets/limbus-company-farming-calculator) | 3 周前 | — | 计算体力/模块/养成材料 farming 计划。（需标注：核验当前收益规则。） |
 | [limbus-affinity-helper](https://github.com/jmvillafuerte/limbus-affinity-helper) | 7 个月前 | — | 辅助计算队伍罪属性与 E.G.O 资源。（观察项：与 sin-calculator 比较后选优。） |
 | [limbus-gacha-planner](https://github.com/HappyDalpeng/limbus-gacha-planner) | 1 年前 | — | 规划未来抽取、Lunacy/票券和目标角色。（需标注：补足综合 planner 的抽卡规划。） |
-| [limbus-random-deck](https://github.com/dytroc/limbus-random-deck) | 11 个月前 | — | 随机生成队伍/挑战构筑。（需标注：放趣味/挑战区。） |
+| [limbus-random-deck](https://github.com/dytroc/limbus-random-deck) | 12 个月前 | — | 随机生成队伍/挑战构筑。（需标注：放趣味/挑战区。） |
 | [LimbusCompany-RandomizedTeamPicker](https://github.com/SakuyaLC/LimbusCompany-RandomizedTeamPicker) | 3 周前 | — | 带完整 UI/素材的随机队伍选择器。（需标注：与 random-deck 比较后说明差异。） |
 | [LC_CombatSim](https://github.com/TheCondor07/LC_CombatSim) | 1 年前 | — | 模拟 Limbus 战斗流程或技能。（需标注：机制分析有潜力，验证测试覆盖。） |
 | [LimbusSimulation](https://github.com/Ts-Final/LimbusSimulation) | 2 年前 | — | 较完整的 Limbus 战斗模拟实验。 |
@@ -298,7 +298,7 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | [LimbusSBC](https://github.com/DerekWWang/LimbusSBC) | 2 年前 | — | 使用单板机或硬件与 Limbus 交互的实验。（观察项：需要演示和文档。） |
 | [PM-anything-bot](https://github.com/MonoScyron/PM-anything-bot) | 4 个月前 | — | Project Moon/Limbus 资料查询或娱乐 Bot。 |
 | [LimbusCompanySRA](https://github.com/GALIAIS/LimbusCompanySRA) | 1 年前 | — | Limbus 资源/账号/统计相关应用。（观察项：名称缩写和目标不透明，补简介后再收录。） |
-| [ElderCalc](https://github.com/BaTyANl/ElderCalc) | 2 天前 | — | Limbus 数值计算工具。（观察项：与成熟工具比较后再决定。） |
+| [ElderCalc](https://github.com/BaTyANl/ElderCalc) | 3 天前 | — | Limbus 数值计算工具。（观察项：与成熟工具比较后再决定。） |
 
 ### 粉丝创作与主题项目
 
@@ -335,7 +335,7 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | [Nexus Mods — Limbus Company](https://www.nexusmods.com/limbuscompany/mods/categories) | — | — | 公开索引皮肤、语音、画面与其他 Mod；截至核验时为 129 个 Mod、534 个文件。 |
 | [GameBanana — Limbus Company](https://gamebanana.com/games/19546) | — | — | 较小型的 Limbus Company Mod、皮肤与资源分享页面。 |
 | [Lethe Documentation](https://docs.lethelc.site/) | — | — | 覆盖安装、添加 Mod、静态数据导出、自定义人格/技能/被动/战斗/资产/本地化及高级 BepInEx 扩展。 |
-| [awesome-privateserver](https://github.com/fishiatee/awesome-privateserver) | 6 天前 | — | 跨游戏私服项目列表；当前把 OpenLethe 作为 Limbus Company 活跃私服项目列出。 |
+| [awesome-privateserver](https://github.com/fishiatee/awesome-privateserver) | 1 周前 | — | 跨游戏私服项目列表；当前把 OpenLethe 作为 Limbus Company 活跃私服项目列出。 |
 
 ### 逆向专题：私服谱系
 
@@ -359,12 +359,12 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 | --- | --- | --- | --- |
 | [BasePlugin2](https://github.com/LEAGUE-OF-NINE/BasePlugin2) | 1 年前 | — | 仅有极少目录与 Lethe 项目骨架，缺少 README 和可辨识发布流程。（观察项：不能与 BasePlugin 并列推荐。） |
 | [GlitchAnims/ModularLimbis](https://github.com/GlitchAnims/ModularLimbis) | 1 年前 | — | ModularLimbis 的早期/原始实现，当前活跃维护已转向 LEAGUE OF NINE 分支。（需标注：在主条目中注明原作者，避免抹去项目谱系。） |
-| [motions-schema](https://github.com/LEAGUE-OF-NINE/motions-schema) | 2 周前 | — | 维护 Motions JSON Schema 和按游戏版本映射的 serverinfos，支持编辑器校验和兼容判断。 |
+| [motions-schema](https://github.com/LEAGUE-OF-NINE/motions-schema) | 1 天前 | — | 维护 Motions JSON Schema 和按游戏版本映射的 serverinfos，支持编辑器校验和兼容判断。 |
 | [ImmersivePlagiarism](https://github.com/LEAGUE-OF-NINE/ImmersivePlagiarism) | 2 周前 | — | 让自定义 Bundle/Motions 复用原版 Shader 与 VFX；配套 AssetRipper/Unity 工作流。 |
 | [SupportPassiveDLLExample](https://github.com/LEAGUE-OF-NINE/SupportPassiveDLLExample) | 12 个月前 | — | 展示如何为自定义支援被动编写 DLL，并连接 BasePlugin2、Lethe 与 ModularSkillScripts。 |
 | [ModularCustomConsequenceExample](https://github.com/LEAGUE-OF-NINE/ModularCustomConsequenceExample) | 1 年前 | — | 展示为 Modular 增加自定义 consequence 与 value getter 的实现方式。 |
 | [CustomVanillaAbility](https://github.com/Styx-9090/CustomVanillaAbility) | 2 周前 | — | 扫描 custom_limbus_data 中的 skill/passive，注册自定义 SkillAbility/Passive 类并处理热重载、模型与战斗补丁。 |
-| [ModularCustomA / MT Custom Scripts](https://github.com/EmptyHamburger/ModularCustomA) | 2 天前 | — | Lethe 文档列出的 Modular 扩展包，增加更多脚本/自定义行为；仓库 README 仅链接外部说明。 |
+| [ModularCustomA / MT Custom Scripts](https://github.com/EmptyHamburger/ModularCustomA) | 1 天前 | — | Lethe 文档列出的 Modular 扩展包，增加更多脚本/自定义行为；仓库 README 仅链接外部说明。 |
 | [fungangdlls](https://github.com/Not-Nova-Shane/fungangdlls) | 1 年前 | — | Fun Gang 内容使用的自定义支援被动 DLL，也可作为 Lethe/Modular 插件样例。（需标注：有参考价值，但更像单个 Mod 的配套代码。） |
 | [LimbusCustomSoundPlus](https://github.com/LEAGUE-OF-NINE/LimbusCustomSoundPlus) | 1 年前 | — | LimbusCustomSound 的增强/重写路线，支持语音、BGM 和音效 WAV 替换。 |
 | [rename_bundle_thing](https://github.com/LEAGUE-OF-NINE/rename_bundle_thing) | 1 年前 | — | 用于修改/规避 AssetBundle 名称或 CAB 冲突的简易工具。（观察项：确有用途，但文档与工程质量明显低于核心 SDK。） |
@@ -397,11 +397,11 @@ goat：表示这是毋庸置疑的好，在所有limbus相关内容中毋庸置�
 
 | 项目 | 最近更新 | Confirm | 简介 |
 | --- | --- | --- | --- |
-| [BepInEx 6 IL2CPP](https://github.com/BepInEx/BepInEx) | 4 天前 | — | Lethe、声音 Mod、战斗插件和大量 C# Mod 的底层加载器。 |
-| [HarmonyX](https://github.com/BepInEx/HarmonyX) | 1 个月前 | — | 多数 BepInEx Limbus 插件用于前后置 Patch、转译器和运行时行为替换。（需标注：放入依赖表，不应作为 Limbus 项目计数。） |
-| [Il2CppInterop](https://github.com/BepInEx/Il2CppInterop) | 1 个月前 | — | 为 C# 插件生成和调用 IL2CPP 互操作程序集；Lethe/Motions/Multi-tool 均依赖此类能力。 |
-| [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) | 2 天前 | — | 分析 GameAssembly 与 metadata，生成可供互操作/反编译使用的信息。 |
-| [AssetRipper](https://github.com/AssetRipper/AssetRipper) | 6 天前 | — | 提取 Unity AssetBundle、场景、材质和 Shader 结构；ImmersivePlagiarism 工作流明确依赖。 |
+| [BepInEx 6 IL2CPP](https://github.com/BepInEx/BepInEx) | 5 天前 | — | Lethe、声音 Mod、战斗插件和大量 C# Mod 的底层加载器。 |
+| [HarmonyX](https://github.com/BepInEx/HarmonyX) | 2 个月前 | — | 多数 BepInEx Limbus 插件用于前后置 Patch、转译器和运行时行为替换。（需标注：放入依赖表，不应作为 Limbus 项目计数。） |
+| [Il2CppInterop](https://github.com/BepInEx/Il2CppInterop) | 2 个月前 | — | 为 C# 插件生成和调用 IL2CPP 互操作程序集；Lethe/Motions/Multi-tool 均依赖此类能力。 |
+| [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) | 3 天前 | — | 分析 GameAssembly 与 metadata，生成可供互操作/反编译使用的信息。 |
+| [AssetRipper](https://github.com/AssetRipper/AssetRipper) | 今天 | — | 提取 Unity AssetBundle、场景、材质和 Shader 结构；ImmersivePlagiarism 工作流明确依赖。 |
 | [UABEA / UABE Avalonia](https://github.com/nesrak1/UABEA) | 3 个月前 | — | 用于查看和编辑 Bundle/TextAsset；旧视觉 Mod 与静态 Patch 工作流常见。（需标注：仅放依赖区，不计作 Limbus 专用项目。） |
 | [FMOD Studio / FMOD API](https://www.fmod.com/) | — | — | 旧 `.bank` 声音替换与 Motions 音频播放相关的上游格式和工具。（需标注：用于说明格式与依赖，不提供游戏资产再分发。） |
 | [Docker + PostgreSQL](https://www.docker.com/) | — | — | OpenLethe 自托管、数据库和测试环境的主要部署基础。（观察项：无需放主 README，只在 OpenLethe 技术栈中说明。） |
